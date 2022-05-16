@@ -1,0 +1,619 @@
+{"seg_id": "0", "set_id": "0", "refs": ["We devise adaptive loss scaling to improve mixed precision training that surpass the state-of-the-art results."]}
+{"seg_id": "1", "set_id": "1", "refs": ["We present a novel approach for learning to predict sets with unknown permutation and cardinality using feed-forward deep neural networks."]}
+{"seg_id": "2", "set_id": "2", "refs": ["We compare object recognition performance on images that are downsampled uniformly and with three different foveation schemes."]}
+{"seg_id": "3", "set_id": "3", "refs": ["We develop methods to train deep neural models that are both robust to adversarial perturbations and whose robustness is significantly easier to verify."]}
+{"seg_id": "4", "set_id": "4", "refs": ["Investigation of how BatchNorm causes adversarial vulnerability and how to avoid it."]}
+{"seg_id": "5", "set_id": "5", "refs": ["Our variational-recurrent imputation network (V-RIN) takes into account the correlated features, temporal dynamics, and further utilizes the uncertainty to alleviate the risk of biased missing values estimates."]}
+{"seg_id": "6", "set_id": "6", "refs": ["An adaptive method for fixed-point quantization of neural networks based on theoretical analysis rather than heuristics."]}
+{"seg_id": "7", "set_id": "7", "refs": ["Based on fuzzy set theory, we propose a model that given only the sizes of symmetric differences between pairs of multisets, learns representations of such multisets and their elements."]}
+{"seg_id": "8", "set_id": "8", "refs": ["This paper proposes a deep learning aided method to elicit credible samples from self-interested agents."]}
+{"seg_id": "9", "set_id": "9", "refs": ["Graph to Sequence Learning with Attention-Based Neural Networks"]}
+{"seg_id": "10", "set_id": "10", "refs": ["A zero-shot segmentation framework for 3D object part segmentation. Model the segmentation as a decision-making process and solve as a contextual bandit problem."]}
+{"seg_id": "11", "set_id": "11", "refs": ["A new perspective on how to collect the correlation between nodes based on diffusion properties."]}
+{"seg_id": "12", "set_id": "12", "refs": ["We propose a weak supervision training pipeline based on the data programming framework for ranking tasks, in which we train a BERT-base ranking model and establish the new SOTA."]}
+{"seg_id": "13", "set_id": "13", "refs": ["In real problems, we found that DNNs often fit target functions from low to high frequencies during the training process."]}
+{"seg_id": "14", "set_id": "14", "refs": ["We propose a multi-resolution, hierarchically coupled encoder-decoder for graph-to-graph translation."]}
+{"seg_id": "15", "set_id": "15", "refs": ["We utilize attention to restrict equivariant neural networks to the set or co-occurring transformations in data."]}
+{"seg_id": "16", "set_id": "16", "refs": ["We train a GAN to generate and recover full-atom protein backbones , and we show that in select cases we can recover the generated proteins after sequence design and ab initio forward-folding."]}
+{"seg_id": "17", "set_id": "17", "refs": ["Meta Learning for Few Shot learning assumes that training tasks and test tasks are drawn from the same distribution. What do you do if they are not? Meta Learning with task-level Domain Adaptation!"]}
+{"seg_id": "18", "set_id": "18", "refs": ["Divide, Conquer, and Combine is a new inference scheme that can be performed on the probabilistic programs with stochastic support, i.e. the very existence of variables is stochastic."]}
+{"seg_id": "19", "set_id": "19", "refs": ["A community preserving node embedding algorithm that results in more effective detection of communities with a clustering on the embedded space"]}
+{"seg_id": "20", "set_id": "20", "refs": ["An autoregressive deep learning model for generating diverse point clouds."]}
+{"seg_id": "21", "set_id": "21", "refs": ["Describes a series of explainability techniques applied to a simple neural network controller used for navigation."]}
+{"seg_id": "22", "set_id": "22", "refs": ["We propose a self-monitoring agent for the Vision-and-Language Navigation task."]}
+{"seg_id": "23", "set_id": "23", "refs": ["event discovery to represent the history for the agent in RL"]}
+{"seg_id": "24", "set_id": "24", "refs": ["We show that autoregressive models can generate high fidelity images."]}
+{"seg_id": "25", "set_id": "25", "refs": ["A deep hierarchical state-space model in which the state transitions of correlated objects are coordinated by graph neural networks."]}
+{"seg_id": "26", "set_id": "26", "refs": ["We introduce a new inductive bias that integrates tree structures in recurrent neural networks."]}
+{"seg_id": "27", "set_id": "27", "refs": ["Degenerate manifolds arising from the non-identifiability of the model slow down learning in deep networks; skip connections help by breaking degeneracies."]}
+{"seg_id": "28", "set_id": "28", "refs": ["Learning state representations which capture factors necessary for control"]}
+{"seg_id": "29", "set_id": "29", "refs": ["We study the behavior of a CNN as it masters new tasks while preserving mastery for previously learned tasks"]}
+{"seg_id": "30", "set_id": "30", "refs": ["Morty refits pretrained word embeddings to either: (a) improve overall embedding performance (for Multi-task settings) or improve Single-task performance, while requiring only minimal effort."]}
+{"seg_id": "31", "set_id": "31", "refs": ["Selectively augmenting difficult to classify points results in efficient training."]}
+{"seg_id": "32", "set_id": "32", "refs": ["A deep generative model for organic molecules that first generates reactant building blocks before combining these using a reaction predictor."]}
+{"seg_id": "33", "set_id": "33", "refs": ["Improve the robustness and energy efficiency of a deep neural network using the hidden representations."]}
+{"seg_id": "34", "set_id": "34", "refs": ["Understanding the structure of knowledge graph representation using insight from word embeddings."]}
+{"seg_id": "35", "set_id": "35", "refs": ["A novel self-attention mechanism for multivariate, geo-tagged time series imputation."]}
+{"seg_id": "36", "set_id": "36", "refs": ["We designed and tested a REDNET (ResNet Encoder-Decoder) with 8 skip connections to remove noise from documents, including blurring and watermarks, resulting in a high performance deep network for document image cleanup."]}
+{"seg_id": "37", "set_id": "37", "refs": ["We identify a family of defense techniques and show that both deterministic lossy compression and randomized perturbations to the input lead to similar gains in robustness."]}
+{"seg_id": "38", "set_id": "38", "refs": ["We provide a method to benchmark optimizers that is cognizant to the hyperparameter tuning process."]}
+{"seg_id": "39", "set_id": "39", "refs": ["We introduce a semi-supervised deep neural network to approximate the solution of the phase problem in electron microscopy"]}
+{"seg_id": "40", "set_id": "40", "refs": ["Word2net is a novel method for learning neural network representations of words that can use syntactic information to learn better semantic features."]}
+{"seg_id": "41", "set_id": "41", "refs": ["Using a 10s window of fMRI signals, our GCN model identified 21 different task conditions from HCP dataset with a test accuracy of 89%."]}
+{"seg_id": "42", "set_id": "42", "refs": ["Efficiently inducing low-rank deep neural networks via SVD training with sparse singular values and orthogonal singular vectors."]}
+{"seg_id": "43", "set_id": "43", "refs": ["We propose a few-shot learning model that is tailored specifically for regression tasks"]}
+{"seg_id": "44", "set_id": "44", "refs": ["We present a novel approach for detecting out-of-distribution pixels in semantic segmentation."]}
+{"seg_id": "45", "set_id": "45", "refs": ["Accurate, Fast and Automated Kernel-Wise Neural Network Quantization with Mixed Precision using Hierarchical Deep Reinforcement Learning"]}
+{"seg_id": "46", "set_id": "46", "refs": ["Gaggle, an interactive visual analytic system to help users interactively navigate model space for classification and ranking tasks."]}
+{"seg_id": "47", "set_id": "47", "refs": ["We propose a novel attention networks with the hybird encoder to solve the text representation issue of Chinese text classification, especially the language phenomena about pronunciations such as the polyphone and the homophone."]}
+{"seg_id": "48", "set_id": "48", "refs": ["multi-modal imitation learning from unstructured demonstrations using stochastic neural network modeling intention."]}
+{"seg_id": "49", "set_id": "49", "refs": ["A novel approach to construct hierarchical explanations for text classification by detecting feature interactions."]}
+{"seg_id": "50", "set_id": "50", "refs": ["We make convolutional layers run faster by dynamically boosting and suppressing channels in feature computation."]}
+{"seg_id": "51", "set_id": "51", "refs": ["Neural networks can be pre-defined to have sparse connectivity without performance degradation."]}
+{"seg_id": "52", "set_id": "52", "refs": ["We provide a comprehensive, rigorous, and coherent benchmark to evaluate adversarial robustness of deep learning models."]}
+{"seg_id": "53", "set_id": "53", "refs": ["We propose a modification to traditional Artificial Neural Networks motivated by the biology of neurons to enable the shape of the activation function to be context dependent."]}
+{"seg_id": "54", "set_id": "54", "refs": ["We identify the forgetting problem in fine-tuning of pre-trained NLG models, and propose the mix-review strategy to address it."]}
+{"seg_id": "55", "set_id": "55", "refs": ["Improved modeling of complex systems uses hybrid neural/domain model composition, new decorrelation loss functions and extrapolative test sets"]}
+{"seg_id": "56", "set_id": "56", "refs": ["We learn dense scores and dynamics model as priors from exploration data and use them to induce a good policy in new tasks in zero-shot condition."]}
+{"seg_id": "57", "set_id": "57", "refs": ["Analyze the underlying mechanisms of variance collapse of SVGD in high dimensions."]}
+{"seg_id": "58", "set_id": "58", "refs": ["Rethinking generalization requires revisiting old ideas: statistical mechanics approaches and complex learning behavior"]}
+{"seg_id": "59", "set_id": "59", "refs": ["We present doubly sparse softmax, the sparse mixture of sparse of sparse experts, to improve the efficiency for softmax inference through exploiting the two-level overlapping hierarchy."]}
+{"seg_id": "60", "set_id": "60", "refs": ["We explore using passively collected eye-tracking data to reduce the amount of labeled data needed during training."]}
+{"seg_id": "61", "set_id": "61", "refs": ["We apply loss correction to graph neural networks to train a more robust to noise model."]}
+{"seg_id": "62", "set_id": "62", "refs": ["We use graph co-attention in a paired graph training system for graph classification and regression."]}
+{"seg_id": "63", "set_id": "63", "refs": ["Image captioning as a conditional GAN training with novel architectures, also study two discrete GAN training methods."]}
+{"seg_id": "64", "set_id": "64", "refs": ["Exploit curvature to make MCMC methods converge faster than state of the art."]}
+{"seg_id": "65", "set_id": "65", "refs": ["Keras for infinite neural networks."]}
+{"seg_id": "66", "set_id": "66", "refs": ["We propose a novel loss function that achieves state-of-the-art results in out-of-distribution detection with Outlier Exposure both on image and text classiﬁcation tasks."]}
+{"seg_id": "67", "set_id": "67", "refs": ["Task agnostic pre-training can shape RNN's attractor landscape, and form diverse inductive bias for different navigation tasks"]}
+{"seg_id": "68", "set_id": "68", "refs": ["Neural Network Verification for Temporal Properties and Sequence Generation Models"]}
+{"seg_id": "69", "set_id": "69", "refs": ["We propose a universal neural network solution to derive effective NN architectures for tabular data automatically."]}
+{"seg_id": "70", "set_id": "70", "refs": ["Probabilistic Rule Learning system using Lifted Inference"]}
+{"seg_id": "71", "set_id": "71", "refs": ["We propose the first non-autoregressive neural model for Dialogue State Tracking (DST), achieving the SOTA accuracy (49.04%) on MultiWOZ2.1 benchmark, and reducing inference latency by an order of magnitude."]}
+{"seg_id": "72", "set_id": "72", "refs": ["A novel network architecture to perform Deep 3D Zoom or close-ups."]}
+{"seg_id": "73", "set_id": "73", "refs": ["A quantitative refinement of the universal approximation theorem via an algebraic approach."]}
+{"seg_id": "74", "set_id": "74", "refs": ["Modular framework for document classification and data aggregation technique for making the framework robust to various distortion, and noise and focus only on the important words."]}
+{"seg_id": "75", "set_id": "75", "refs": ["Allowing partial channel connection in super-networks to regularize and accelerate differentiable architecture search"]}
+{"seg_id": "76", "set_id": "76", "refs": ["Agents interact (speak, act) and can achieve goals in a rich world with diverse language, bridging the gap between chit-chat and goal-oriented dialogue."]}
+{"seg_id": "77", "set_id": "77", "refs": ["A new partially policy-agnostic method for infinite-horizon off-policy policy evalution with multiple known or unknown behavior policies."]}
+{"seg_id": "78", "set_id": "78", "refs": ["We introduce a more efficient neural architecture for amortized inference, which combines continuous and conditional normalizing flows using a principled choice of sparsity structure."]}
+{"seg_id": "79", "set_id": "79", "refs": ["We show that ENAS with ES-optimization in RL is highly scalable, and use it to compactify neural network policies by weight sharing."]}
+{"seg_id": "80", "set_id": "80", "refs": ["We introduce Deep SAD, a deep method for general semi-supervised anomaly detection that especially takes advantage of labeled anomalies."]}
+{"seg_id": "81", "set_id": "81", "refs": ["This paper analyzes training dynamics and critical points of training deep ReLU network via SGD in the teacher-student setting."]}
+{"seg_id": "82", "set_id": "82", "refs": ["Under certain condition on the input and output linear transformations, both GD and SGD can achieve global convergence for training deep linear ResNets."]}
+{"seg_id": "83", "set_id": "83", "refs": ["We analyze the training process for Deep Networks and show that they start from rapidly learning shallow classifiable examples and slowly generalize to harder data points."]}
+{"seg_id": "84", "set_id": "84", "refs": ["Learning deep latent variable MRFs with a saddle-point objective derived from the Bethe partition function approximation."]}
+{"seg_id": "85", "set_id": "85", "refs": ["A general framework for explanation generation using Logic."]}
+{"seg_id": "86", "set_id": "86", "refs": ["Deep and narrow neural networks will converge to erroneous mean or median states of the target function depending on the loss with high probability."]}
+{"seg_id": "87", "set_id": "87", "refs": ["We propose MMA training to directly maximize input space margin in order to improve adversarial robustness primarily by removing the requirement of specifying a fixed distortion bound."]}
+{"seg_id": "88", "set_id": "88", "refs": ["We propose a method for anomaly detection with GANs by searching the generator's latent space for good sample representations."]}
+{"seg_id": "89", "set_id": "89", "refs": ["The transient behavior of gradient-based MCMC and variational inference algorithms is more similar than one might think, calling into question the claim that variational inference is faster than MCMC."]}
+{"seg_id": "90", "set_id": "90", "refs": ["A Composition-based Graph Convolutional framework for multi-relational graphs."]}
+{"seg_id": "91", "set_id": "91", "refs": ["We fully quantize the Transformer to 8-bit and improve translation quality compared to the full precision model."]}
+{"seg_id": "92", "set_id": "92", "refs": ["Latent Embedding Optimization (LEO) is a novel gradient-based meta-learner with state-of-the-art performance on the challenging 5-way 1-shot and 5-shot miniImageNet and tieredImageNet classification tasks."]}
+{"seg_id": "93", "set_id": "93", "refs": ["Relational inductive biases improve out-of-distribution generalization capacities in model-free reinforcement learning agents"]}
+{"seg_id": "94", "set_id": "94", "refs": ["We propose a simple generative model for unsupervised image translation and saliency detection."]}
+{"seg_id": "95", "set_id": "95", "refs": ["We define a concept of layerwise model-parallel deep neural networks, for which layers operate in parallel, and provide a toolbox to design, train, evaluate, and on-line interact with these networks."]}
+{"seg_id": "96", "set_id": "96", "refs": ["An adversarial defense method bridging robustness of deep neural nets with Lyapunov stability"]}
+{"seg_id": "97", "set_id": "97", "refs": ["We propose a simple yet effective reweighting scheme for GCNs, theoretically supported by the mean field theory."]}
+{"seg_id": "98", "set_id": "98", "refs": ["Our approach is the first attempt to leverage a sequential latent variable model for knowledge selection in the multi-turn knowledge-grounded dialogue. It achieves the new state-of-the-art performance on Wizard of Wikipedia benchmark."]}
+{"seg_id": "99", "set_id": "99", "refs": ["We propose a meta-learning method which efficiently amortizes hierarchical variational inference across training episodes."]}
+{"seg_id": "100", "set_id": "100", "refs": ["Representation/knowledge distillation by maximizing mutual information between teacher and student"]}
+{"seg_id": "101", "set_id": "101", "refs": ["Networks that learn with feedback connections and local plasticity rules can be optimized for using meta learning."]}
+{"seg_id": "102", "set_id": "102", "refs": ["CNNs with biologically-inspired lateral connections learned in an unsupervised manner are more robust to noisy inputs."]}
+{"seg_id": "103", "set_id": "103", "refs": ["This paper is intended to develop a tensor product representation approach for deep-learning-based natural language processinig applications."]}
+{"seg_id": "104", "set_id": "104", "refs": ["We study the certified robustness for top-k predictions via randomized smoothing under Gaussian noise and derive a tight robustness bound in L_2 norm."]}
+{"seg_id": "105", "set_id": "105", "refs": ["We present structured priors for unsupervised learning of disentangled representations in VAEs that significantly mitigate the trade-off between disentanglement and reconstruction loss."]}
+{"seg_id": "106", "set_id": "106", "refs": ["We generalize residual blocks to tandem blocks, which use arbitrary linear maps instead of shortcuts, and improve performance over ResNets."]}
+{"seg_id": "107", "set_id": "107", "refs": ["We present a new framework for adapting Adam-typed methods, namely AdamT, to include the trend information when updating the parameters with the adaptive step size and gradients."]}
+{"seg_id": "108", "set_id": "108", "refs": ["A method to explain a classifier, by generating visual perturbation of an image by exaggerating  or diminishing the semantic features that the classifier associates with a target label."]}
+{"seg_id": "109", "set_id": "109", "refs": ["We present an influence-directed approach to constructing explanations for the behavior of deep convolutional networks, and show how it can be used to answer a broad set of questions that could not be addressed by prior work."]}
+{"seg_id": "110", "set_id": "110", "refs": ["We highlight a technique by which natural language processing systems can learn a new word from context, allowing them to be much more flexible."]}
+{"seg_id": "111", "set_id": "111", "refs": ["A memory architecture that support inferential reasoning."]}
+{"seg_id": "112", "set_id": "112", "refs": ["Depthwise separable convolutions improve neural machine translation: the more separable the better."]}
+{"seg_id": "113", "set_id": "113", "refs": ["Non-saturating GAN training effectively minimizes a reverse KL-like f-divergence."]}
+{"seg_id": "114", "set_id": "114", "refs": ["We introduce a novel text representation method which enables image classifiers to be applied to text classification problems, and apply the method to inventor name disambiguation."]}
+{"seg_id": "115", "set_id": "115", "refs": ["We proposed \"Difference-Seeking Generative Adversarial Network\" (DSGAN) model to learn the target distribution which is hard to collect training data."]}
+{"seg_id": "116", "set_id": "116", "refs": ["A general method that improves the image translation performance of GAN framework by using an attention embedded discriminator"]}
+{"seg_id": "117", "set_id": "117", "refs": ["We propose a new dataset to investigate the entailment problem under semi-structured table as premise"]}
+{"seg_id": "118", "set_id": "118", "refs": ["We develop a deep graph matching architecture which refines initial correspondences in order to reach neighborhood consensus."]}
+{"seg_id": "119", "set_id": "119", "refs": ["This paper extends the proof of density of neural networks in the space of continuous (or even measurable) functions on Euclidean spaces to functions on compact sets of probability measures."]}
+{"seg_id": "120", "set_id": "120", "refs": ["A new framework for context-dependent and context-free explanations of predictions"]}
+{"seg_id": "121", "set_id": "121", "refs": ["Finetuning after quantization matches or exceeds full-precision state-of-the-art networks at both 8- and 4-bit quantization."]}
+{"seg_id": "122", "set_id": "122", "refs": ["Two methods based on Representational Similarity Analysis (RSA) and Tree Kernels (TK) which directly quantify how strongly information encoded in neural activation patterns corresponds to information represented by symbolic structures."]}
+{"seg_id": "123", "set_id": "123", "refs": ["This paper introduces a framework for data-efficient representation learning by adaptive sampling in latent space."]}
+{"seg_id": "124", "set_id": "124", "refs": ["An adversarial training-based method for disentangling two complementary sets of variations in a dataset where only one of them is labelled, tested on style vs. content in anime illustrations."]}
+{"seg_id": "125", "set_id": "125", "refs": ["We introduce a smoothness regularization for convolutional kernels of CNN that can help improve adversarial robustness and lead to perceptually-aligned gradients"]}
+{"seg_id": "126", "set_id": "126", "refs": ["We investigate the large-sample behaviors of the Q-value estimates and proposed an efficient exploration strategy that relies on estimating the relative discrepancies among the Q estimates."]}
+{"seg_id": "127", "set_id": "127", "refs": ["We train word embeddings based on entailment instead of similarity, successfully predicting lexical entailment."]}
+{"seg_id": "128", "set_id": "128", "refs": ["Unsupervised learning for reinforcement learning using an automatic curriculum of self-play"]}
+{"seg_id": "129", "set_id": "129", "refs": ["Exploiting rich strucural details in graph-structued data via adaptive \"strucutral fingerprints''"]}
+{"seg_id": "130", "set_id": "130", "refs": ["We propose a scalable Bayesian Reinforcement Learning algorithm that learns a Bayesian correction over an ensemble of clairvoyant experts to solve problems with complex latent rewards and dynamics."]}
+{"seg_id": "131", "set_id": "131", "refs": ["We prove gradient descent achieves zero training loss with a linear rate on over-parameterized neural networks."]}
+{"seg_id": "132", "set_id": "132", "refs": ["To analyze inverse problems with Invertible Neural Networks"]}
+{"seg_id": "133", "set_id": "133", "refs": ["Performance metrics are incomplete specifications; the ends don't always justify the means."]}
+{"seg_id": "134", "set_id": "134", "refs": ["We propose an anomaly-detection approach that combines modeling the foreground class via multiple local densities with adversarial training."]}
+{"seg_id": "135", "set_id": "135", "refs": ["We propose a GAN variant which learns to generate point clouds. Different studies have been explores, including tighter Wasserstein distance estimate,  conditional generation, generalization to unseen point clouds and image to point cloud."]}
+{"seg_id": "136", "set_id": "136", "refs": ["The paper presents a novel approach for attentional mechanisms that can benefit a range of tasks such as machine translation and image captioning."]}
+{"seg_id": "137", "set_id": "137", "refs": ["We identify a phenomenon, neural brainwashing, and introduce a statistically-justified weight plasticity loss to overcome this."]}
+{"seg_id": "138", "set_id": "138", "refs": ["This paper introduces Morpho-MNIST, a collection of shape metrics and perturbations, in a step towards quantitative evaluation of representation learning."]}
+{"seg_id": "139", "set_id": "139", "refs": ["structured exploration in deep reinforcement learning via unsupervised visual abstraction discovery and control"]}
+{"seg_id": "140", "set_id": "140", "refs": ["A new policy gradient algorithm designed to approach black-box combinatorial optimization problems. The algorithm relies only on function evaluations, and returns locally optimal solutions with high probability."]}
+{"seg_id": "141", "set_id": "141", "refs": ["Fast, calibrated uncertainty estimation for neural networks without sampling"]}
+{"seg_id": "142", "set_id": "142", "refs": ["We propose a new algorithm that quickly finds winning tickets in neural networks."]}
+{"seg_id": "143", "set_id": "143", "refs": ["Introduce a formal setting for budgeted training and propose a budget-aware linear learning rate schedule"]}
+{"seg_id": "144", "set_id": "144", "refs": ["We conduct exploration using intrinsic rewards that are based on a weighted distance of nearest neighbors in representational space."]}
+{"seg_id": "145", "set_id": "145", "refs": ["Robustness performance of PGD trained models are sensitive to semantics-preserving transformation of image datasets, which implies the trickiness of evaluation of robust learning algorithms in practice."]}
+{"seg_id": "146", "set_id": "146", "refs": ["We propose ranking policy gradient that learns the optimal rank of actions to maximize return. We propose a general off-policy learning framework with the properties of optimality preserving, variance reduction, and sample-efficiency."]}
+{"seg_id": "147", "set_id": "147", "refs": ["Combining classification and image retrieval in a neural network architecture, we obtain an improvement for both tasks."]}
+{"seg_id": "148", "set_id": "148", "refs": ["We investigate mapping the hyponymy relation of wordnet to feature vectors"]}
+{"seg_id": "149", "set_id": "149", "refs": ["We build a stronger natural language generator by discriminatively training scoring functions that rank candidate generations with respect to various qualities of good writing."]}
+{"seg_id": "150", "set_id": "150", "refs": ["Scalable and low communication load balancing solution for heterogeneous-server multi-dispatcher systems with strong theoretical guarantees and promising empirical results."]}
+{"seg_id": "151", "set_id": "151", "refs": ["A quantitative measure to predict the performances of deep neural network models."]}
+{"seg_id": "152", "set_id": "152", "refs": ["This paper presents a rigorous study of why practically used learning rate schedules (for a given computational budget) offer significant advantages even though these schemes are not advocated by the classical theory of Stochastic Approximation."]}
+{"seg_id": "153", "set_id": "153", "refs": ["We present planners based on convnets that are sample-efficient and that generalize to larger instances of navigation and pathfinding problems."]}
+{"seg_id": "154", "set_id": "154", "refs": ["learning better domain embeddings via lifelong learning and meta-learning"]}
+{"seg_id": "155", "set_id": "155", "refs": ["we propose a new regularization-based pruning method (named IncReg) to incrementally assign different regularization factors to different weight groups based on their relative importance."]}
+{"seg_id": "156", "set_id": "156", "refs": ["Existing momentum/acceleration schemes such as heavy ball method and Nesterov's acceleration employed with stochastic gradients do not improve over vanilla stochastic gradient descent, especially when employed with small batch sizes."]}
+{"seg_id": "157", "set_id": "157", "refs": ["We show that oversubscription planning tasks can be solved using A* and introduce novel bound-sensitive heuristics for oversubscription planning tasks."]}
+{"seg_id": "158", "set_id": "158", "refs": ["We develop meta-learning methods for adversarially robust few-shot learning."]}
+{"seg_id": "159", "set_id": "159", "refs": ["We find that pooling alone does not determine deformation stability in CNNs and that filter smoothness plays an important role in determining stability."]}
+{"seg_id": "160", "set_id": "160", "refs": ["We propose a self-ensemble framework to train more robust deep learning models under noisy labeled datasets."]}
+{"seg_id": "161", "set_id": "161", "refs": ["We investigate pruning DNNs before training and provide an answer to which topology should be used for training a priori sparse networks."]}
+{"seg_id": "162", "set_id": "162", "refs": ["We present Multitask Neural Model Search, a Meta-learner that can design models for multiple tasks simultaneously and transfer learning to unseen tasks."]}
+{"seg_id": "163", "set_id": "163", "refs": ["We model non-linear visual processes as autoregressive noise via generative deep learning."]}
+{"seg_id": "164", "set_id": "164", "refs": ["This paper proposes a new feed-forward network, call PDE-Net, to learn PDEs from data."]}
+{"seg_id": "165", "set_id": "165", "refs": ["We give a fast normalising-flow like sampling procedure for discrete latent variable models."]}
+{"seg_id": "166", "set_id": "166", "refs": ["We propose a framework that learns to encode knowledge symbolically and generate programs to reason about the encoded knowledge."]}
+{"seg_id": "167", "set_id": "167", "refs": ["This paper proposes a meta-learning objective based on speed of adaptation to transfer distributions to discover a modular decomposition and causal variables."]}
+{"seg_id": "168", "set_id": "168", "refs": ["Another perspective on catastrophic forgetting"]}
+{"seg_id": "169", "set_id": "169", "refs": ["We propose an approach to construct realistic 3D facial morphable models (3DMM) that allows an intuitive facial attribute editing workflow by selecting the best sets of eigenvectors and anthropometric measurements."]}
+{"seg_id": "170", "set_id": "170", "refs": ["Two Algorithms outperformed eight others on a EEG-based BCI experiment"]}
+{"seg_id": "171", "set_id": "171", "refs": ["We teach agents to negotiate using only reinforcement learning; selfish agents can do so, but only using a trustworthy communication channel, and prosocial agents can negotiate using cheap talk."]}
+{"seg_id": "172", "set_id": "172", "refs": ["We propose a novel meta-learning framework for transductive inference that classifies the entire test set at once to alleviate the low-data problem."]}
+{"seg_id": "173", "set_id": "173", "refs": ["We describe the use of an automated scheduling system for observation policy design and to schedule operations of NASA's ECOSTRESS mission."]}
+{"seg_id": "174", "set_id": "174", "refs": ["Hybird storage and representation of learned knowledge may be a reason for adversarial examples."]}
+{"seg_id": "175", "set_id": "175", "refs": ["New Experiments and Theory for Adam Based Q-Learning"]}
+{"seg_id": "176", "set_id": "176", "refs": ["A new capsule network that converges faster on our healthcare benchmark experiments."]}
+{"seg_id": "177", "set_id": "177", "refs": ["We propose a method of distributed fine-tuning of language models on user devices without collection of private data"]}
+{"seg_id": "178", "set_id": "178", "refs": ["This paper utilizes the analysis of Lipschitz loss on a bounded hypothesis space to derive new ERM-type algorithms with strong performance guarantees that can be applied to the non-conjugate sparse GP model."]}
+{"seg_id": "179", "set_id": "179", "refs": ["We propose a regularization method for neural network and a noise analysis method"]}
+{"seg_id": "180", "set_id": "180", "refs": ["A probabilistic framework for multi-agent reinforcement learning"]}
+{"seg_id": "181", "set_id": "181", "refs": ["We provide a continuous relaxation to the sorting operator, enabling end-to-end, gradient-based stochastic optimization."]}
+{"seg_id": "182", "set_id": "182", "refs": ["We perform efficient and flexible transfer learning in the framework of Bayesian optimization through meta-learned neural acquisition functions."]}
+{"seg_id": "183", "set_id": "183", "refs": ["Deterministic deep neural networks do not discard information, but they do cluster their inputs."]}
+{"seg_id": "184", "set_id": "184", "refs": ["We propose regularization objectives for multi-agent RL algorithms that foster coordination on cooperative tasks."]}
+{"seg_id": "185", "set_id": "185", "refs": ["We present a model that learns robust joint representations by performing hierarchical cyclic translations between multiple modalities."]}
+{"seg_id": "186", "set_id": "186", "refs": ["Understanding the neural network Hessian eigenvalues under the data generating distribution."]}
+{"seg_id": "187", "set_id": "187", "refs": ["One simple trick to improve sequence models: Compose them with a graph model"]}
+{"seg_id": "188", "set_id": "188", "refs": ["A sparse classifier based on a discriminative Gaussian mixture model, which can also be embedded into a neural network."]}
+{"seg_id": "189", "set_id": "189", "refs": ["Initialize weights using off-the-shelf Grassmannian codebooks, get  faster training and better accuracy"]}
+{"seg_id": "190", "set_id": "190", "refs": ["An unsupervised domain adaptation approach which adapts at both the pixel and feature levels"]}
+{"seg_id": "191", "set_id": "191", "refs": ["Amharic Light Stemmer is designed for improving performance of  Amharic Sentiment Classification."]}
+{"seg_id": "192", "set_id": "192", "refs": ["We investigated if simple deep networks possess grid cell-like artificial neurons while memory retrieval in the learned concept space."]}
+{"seg_id": "193", "set_id": "193", "refs": ["Pros and cons of saccade-based computer vision under a predictive coding perspective"]}
+{"seg_id": "194", "set_id": "194", "refs": ["We study theoretically the consistency the Laplacian spectrum and use it as whole-graph embeddding"]}
+{"seg_id": "195", "set_id": "195", "refs": ["FGSM-based adversarial training, with randomization, works just as well as PGD-based adversarial training: we can use this to train a robust classifier in 6 minutes on CIFAR10, and 12 hours on ImageNet, on a single machine."]}
+{"seg_id": "196", "set_id": "196", "refs": ["We propose almost everywhere differentiable and scale invariant regularizers for DNN pruning, which can lead to supremum sparsity through standard SGD training."]}
+{"seg_id": "197", "set_id": "197", "refs": ["We show that extra unlabeled data is not required for self-supervised auxiliary tasks to be useful for time series classification, and present new and effective auxiliary tasks."]}
+{"seg_id": "198", "set_id": "198", "refs": ["Eigenvalues of Conjugate (aka NNGP) and Neural Tangent Kernel can be computed in closed form over the Boolean cube and reveal the effects of hyperparameters on neural network inductive bias, training, and generalization."]}
+{"seg_id": "199", "set_id": "199", "refs": ["All functional brain parcellations are wrong, but some are useful"]}
+{"seg_id": "200", "set_id": "200", "refs": ["Imitation from pixels, with sparse or no reward, using off-policy RL and a tiny adversarially-learned reward function."]}
+{"seg_id": "201", "set_id": "201", "refs": ["We show strategies to easily identify fake samples generated with the Generative Adversarial Network framework."]}
+{"seg_id": "202", "set_id": "202", "refs": ["We present an analytical framework to determine accumulation bit-width requirements in all three deep learning training GEMMs and verify the validity and tightness of our method via benchmarking experiments."]}
+{"seg_id": "203", "set_id": "203", "refs": ["A new theory of unsupervised domain adaptation for distance metric learning and its application to face recognition across diverse ethnicity variations."]}
+{"seg_id": "204", "set_id": "204", "refs": ["We propose a convergent proximal-type stochastic gradient descent algorithm for constrained nonsmooth nonconvex optimization problems"]}
+{"seg_id": "205", "set_id": "205", "refs": ["We give a bound for NNs on the output error in case of random weight failures using a Taylor expansion in the continuous limit where nearby neurons are similar"]}
+{"seg_id": "206", "set_id": "206", "refs": ["We explore and study the synergies between sound and action."]}
+{"seg_id": "207", "set_id": "207", "refs": ["We propose Hierarchical Complement Objective Training, a novel training paradigm to effectively leverage category hierarchy in the labeling space on both image classification and semantic segmentation."]}
+{"seg_id": "208", "set_id": "208", "refs": ["Our paper identifies the issue of existing weight sharing approach in neural architecture search and propose a practical method, achieving strong results."]}
+{"seg_id": "209", "set_id": "209", "refs": ["We propose a novel two-phase training approach based on \"early stopping\" for robust training on noisy labels."]}
+{"seg_id": "210", "set_id": "210", "refs": ["We introduce IC3Net, a single network which can be used to train agents in cooperative, competitive and mixed scenarios. We also show that agents can learn when to communicate using our model."]}
+{"seg_id": "211", "set_id": "211", "refs": ["We present the first neural abstractive summarization model capable of customization of generated summaries."]}
+{"seg_id": "212", "set_id": "212", "refs": ["We propose a software framework based on ideas of the Learning-Compression algorithm , that allows one to compress any neural network by different compression mechanisms (pruning, quantization, low-rank, etc.)."]}
+{"seg_id": "213", "set_id": "213", "refs": ["This paper proposes a method of end-to-end multi-modal generation of human face from speech based on a self-supervised learning framework."]}
+{"seg_id": "214", "set_id": "214", "refs": ["A top-down approach how to recursively represent propositional formulae by neural networks is presented."]}
+{"seg_id": "215", "set_id": "215", "refs": ["Ape-X DQfD = Distributed (many actors + one learner + prioritized replay) DQN with demonstrations optimizing the unclipped 0.999-discounted return on Atari."]}
+{"seg_id": "216", "set_id": "216", "refs": ["Training method to enforce strict constraints on learned embeddings during supervised training. Applied to visual question answering."]}
+{"seg_id": "217", "set_id": "217", "refs": ["Solving inverse problems by using smooth approximations of the forward algorithms to train the inverse models."]}
+{"seg_id": "218", "set_id": "218", "refs": ["A deep learning method for weakly-supervised pointwise localization that learns using image-level label only. It relies on conditional entropy to localize relevant and irrelevant regions aiming to minimize false positive regions."]}
+{"seg_id": "219", "set_id": "219", "refs": ["Acquire states from high frequency region for search-control in Dyna."]}
+{"seg_id": "220", "set_id": "220", "refs": ["We introduce a data-driven Distributed Source Coding framework based on Distributed Recurrent Autoencoder for Scalable Image Compression (DRASIC)."]}
+{"seg_id": "221", "set_id": "221", "refs": ["Gates do all the heavy lifting in LSTMs by computing element-wise weighted sums, and removing the internal simple RNN does not degrade model performance."]}
+{"seg_id": "222", "set_id": "222", "refs": ["By analyzing more than 300 papers in recent machine learning conferences, we found that Machine Learning for Health (ML4H) applications lag behind other machine learning fields in terms of reproducibility metrics."]}
+{"seg_id": "223", "set_id": "223", "refs": ["We train many small networks each for a specific operation, these are then combined to perform complex operations"]}
+{"seg_id": "224", "set_id": "224", "refs": ["Improving the quality and stability of GANs using a relativistic discriminator; IPM GANs (such as WGAN-GP) are a special case."]}
+{"seg_id": "225", "set_id": "225", "refs": ["A state-value function-based version of MPO that achieves good results in a wide range of tasks in discrete and continuous control."]}
+{"seg_id": "226", "set_id": "226", "refs": ["We propose neural execution engines (NEEs), which leverage a learned mask and supervised execution traces to mimic the functionality of subroutines and demonstrate strong generalization."]}
+{"seg_id": "227", "set_id": "227", "refs": ["Bayesian changepoint detection enables meta-learning directly from time series data."]}
+{"seg_id": "228", "set_id": "228", "refs": ["A deep learning based approach for zero delay fricative phoneme detection"]}
+{"seg_id": "229", "set_id": "229", "refs": ["An online and linear-time attention mechanism that performs soft attention over adaptively-located chunks of the input sequence."]}
+{"seg_id": "230", "set_id": "230", "refs": ["Develop new techniques that rely on patch reordering to enable detailed analysis of data-set relationship to training and generalization performances."]}
+{"seg_id": "231", "set_id": "231", "refs": ["We produce reinforcement learning agents that generalize well to a wide range of environments using a novel regularization technique."]}
+{"seg_id": "232", "set_id": "232", "refs": ["We explore the intersection of network neurosciences and deep learning."]}
+{"seg_id": "233", "set_id": "233", "refs": ["This paper presents a system for unsupervised, high-precision knowledge base construction using a probabilistic program to define a process of converting knowledge base facts into unstructured text."]}
+{"seg_id": "234", "set_id": "234", "refs": ["New Signal Extraction Method in the Fourier Domain"]}
+{"seg_id": "235", "set_id": "235", "refs": ["Improve the scalability of graph neural networks on imitation learning and prediction of swarm motion"]}
+{"seg_id": "236", "set_id": "236", "refs": ["We propose a differentiable product quantization framework that can reduce the size of embedding layer in an end-to-end training at no performance cost."]}
+{"seg_id": "237", "set_id": "237", "refs": ["We introduce a simple and novel modal regression algorithm which is easy to scale to large problems."]}
+{"seg_id": "238", "set_id": "238", "refs": ["Sample efficient meta-RL by combining variational inference of probabilistic task variables with off-policy RL"]}
+{"seg_id": "239", "set_id": "239", "refs": ["This paper focuses on identifying high quality web sources for industrial knowledge base augmentation pipeline."]}
+{"seg_id": "240", "set_id": "240", "refs": ["We investigate the merits of employing neural networks in the match prediction problem where one seeks to estimate the likelihood of a group of M items preferred over another, based on partial group comparison data."]}
+{"seg_id": "241", "set_id": "241", "refs": ["A novel approach to maintain orthogonal recurrent weight matrices in a RNN."]}
+{"seg_id": "242", "set_id": "242", "refs": ["We use a single model to solve a great variety of natural language analysis tasks by formulating them in a unified span-relation format."]}
+{"seg_id": "243", "set_id": "243", "refs": ["We present a variational lower bound for GP models that can be optimised without computing expensive matrix operations like inverses, while providing the same guarantees as existing variational approximations."]}
+{"seg_id": "244", "set_id": "244", "refs": ["Variational Autoencoders with latent spaces modeled as products of constant curvature Riemannian manifolds improve on image reconstruction over single-manifold variants."]}
+{"seg_id": "245", "set_id": "245", "refs": ["We introduce a black box algorithm for repeated optimization of compounds using a translation framework."]}
+{"seg_id": "246", "set_id": "246", "refs": ["Proposing the first watermarking framework for multi-bit signature embedding and extraction using the outputs of the DNN."]}
+{"seg_id": "247", "set_id": "247", "refs": ["Don't know how to optimize? Then just learn to optimize!"]}
+{"seg_id": "248", "set_id": "248", "refs": ["A simple and easy to train method for multimodal prediction in time series."]}
+{"seg_id": "249", "set_id": "249", "refs": ["This paper introduces and motivates simple_rl, a new open source library for carrying out reinforcement learning experiments in Python 2 and 3 with a focus on simplicity."]}
+{"seg_id": "250", "set_id": "250", "refs": ["This paper deals with stability of simple gradient penalty $\\mu$-WGAN optimization by introducing a concept of measure valued differentiation."]}
+{"seg_id": "251", "set_id": "251", "refs": ["State-of-the-art training method for binary and ternary weight networks based on alternating optimization of randomly relaxed weight partitions"]}
+{"seg_id": "252", "set_id": "252", "refs": ["We replace some gradients paths in hierarchical RNN's by an auxiliary loss. We show that this can reduce the memory cost while preserving performance."]}
+{"seg_id": "253", "set_id": "253", "refs": ["Neural networks that do a good job of classification project points into more spherical shapes before compressing them into fewer dimensions."]}
+{"seg_id": "254", "set_id": "254", "refs": ["We propose an novel learning method for deep sound recognition named BC learning."]}
+{"seg_id": "255", "set_id": "255", "refs": ["We propose a method that infers the time-varying data quality level for spatiotemporal forecasting without explicitly assigned labels."]}
+{"seg_id": "256", "set_id": "256", "refs": ["We propose 3D shape programs, a structured, compositional shape representation. Our model learns to infer and execute shape programs to explain 3D shapes."]}
+{"seg_id": "257", "set_id": "257", "refs": ["We show that conventional regularization methods (e.g., $L_2$, dropout), which have been largely ignored in RL methods, can be very effective in policy optimization."]}
+{"seg_id": "258", "set_id": "258", "refs": ["We present a question-answering dataset, FigureQA, as a first step towards developing models that can intuitively recognize patterns from visual representations of data."]}
+{"seg_id": "259", "set_id": "259", "refs": ["This position paper analyzes different types of self explanation that can arise in planning and related systems."]}
+{"seg_id": "260", "set_id": "260", "refs": ["The first deep learning approach to MFSR to solve registration, fusion, up-sampling in an end-to-end manner."]}
+{"seg_id": "261", "set_id": "261", "refs": ["For distributed training over high-latency networks, use gossip-based approximate distributed averaging instead of exact distribute averaging like AllReduce."]}
+{"seg_id": "262", "set_id": "262", "refs": ["This paper develops an adversarial learning framework for neural conversation models with persona"]}
+{"seg_id": "263", "set_id": "263", "refs": ["Bio-inspired artificial neural networks, consisting of neurons positioned in a two-dimensional space, are capable of forming independent groups for performing different tasks."]}
+{"seg_id": "264", "set_id": "264", "refs": ["Discrete transformer which uses hard attention to ensure that each step only depends on a fixed context."]}
+{"seg_id": "265", "set_id": "265", "refs": ["We show empirical evidence that predictive coding models yield representations more correlated to brain data than supervised image recognition models."]}
+{"seg_id": "266", "set_id": "266", "refs": ["A generic framework for handling transfer and multi-task learning using pairs of autoencoders with task-specific and shared weights."]}
+{"seg_id": "267", "set_id": "267", "refs": ["We propose a framework to combine decision trees and neural networks, and show on image classification tasks that it enjoys the complementary benefits of the two approaches, while addressing the limitations of prior work."]}
+{"seg_id": "268", "set_id": "268", "refs": ["Translating portions of the input during training can improve cross-lingual performance."]}
+{"seg_id": "269", "set_id": "269", "refs": ["We propose a conditional variational autoencoder framework that mitigates the posterior collapse in scenarios where the conditioning signal strong enough for an expressive decoder to generate a plausible output from it."]}
+{"seg_id": "270", "set_id": "270", "refs": ["We propose a study of the stability of several few-shot learning algorithms subject to variations in the hyper-parameters and optimization schemes while controlling the random seed."]}
+{"seg_id": "271", "set_id": "271", "refs": ["We translate a bound on sub-optimality of representations to a practical training objective in the context of hierarchical reinforcement learning."]}
+{"seg_id": "272", "set_id": "272", "refs": ["Metareasoning in a Situated Temporal Planner"]}
+{"seg_id": "273", "set_id": "273", "refs": ["Robustness performance of PGD trained models are sensitive to semantics-preserving transformation of image datasets, which implies the trickiness of evaluation of robust learning algorithms in practice."]}
+{"seg_id": "274", "set_id": "274", "refs": ["Matching sentences by learning the latent constituency tree structures with a variant of the inside-outside algorithm embedded as a neural network layer."]}
+{"seg_id": "275", "set_id": "275", "refs": ["Learn disentangle representation in an unsupervised manner."]}
+{"seg_id": "276", "set_id": "276", "refs": ["Conditional GANs trained to generate data augmented samples of their conditional inputs used to enhance vanilla classification and one shot learning systems such as matching networks and pixel distance"]}
+{"seg_id": "277", "set_id": "277", "refs": ["We develop a simple regression-based model-agnostic feature selection method to interpret data generating processes with FDR control, and outperform several popular baselines on several simulated, medical, and image datasets."]}
+{"seg_id": "278", "set_id": "278", "refs": ["A new approach for learning a model from noisy crowdsourced annotations."]}
+{"seg_id": "279", "set_id": "279", "refs": ["New way of explaining why a neural network has misclassified an image"]}
+{"seg_id": "280", "set_id": "280", "refs": ["A method for the automated construction of branched multi-task networks with strong experimental evaluation on diverse multi-tasking datasets."]}
+{"seg_id": "281", "set_id": "281", "refs": ["It's possible to substitute the weight matrix in a convolutional layer to train it as a structured efficient layer; performing as well as low-rank decomposition."]}
+{"seg_id": "282", "set_id": "282", "refs": ["We present SVDocNet, an end-to-end trainable U-Net based spatial recurrent neural network (RNN) for blind document deblurring."]}
+{"seg_id": "283", "set_id": "283", "refs": ["We extend bilinear sparse coding and leverage video sequences to learn dynamic filters."]}
+{"seg_id": "284", "set_id": "284", "refs": ["We propose a novel OOD detector that employ blurred images as adversarial examples . Our model achieve significant OOD detection performance in various domains."]}
+{"seg_id": "285", "set_id": "285", "refs": ["A fast optimizer for general applications and large-batch training."]}
+{"seg_id": "286", "set_id": "286", "refs": ["We analyzed the role of two learning rates in model-agnostic meta-learning in convergence."]}
+{"seg_id": "287", "set_id": "287", "refs": ["Task-independent neural model for learning associations between interrelated groups of words."]}
+{"seg_id": "288", "set_id": "288", "refs": ["Using deep learning method to carry out automatic measurement of SEM images in semiconductor industry"]}
+{"seg_id": "289", "set_id": "289", "refs": ["This paper describes and analyzes three methods to schedule non-fixed duration activities in the presence of consumptive resources."]}
+{"seg_id": "290", "set_id": "290", "refs": ["Description of submission to NeurIPS2019 Disentanglement Challenge based on hyperspherical variational autoencoders"]}
+{"seg_id": "291", "set_id": "291", "refs": ["An anomaly detection that:  uses random-transformation classification for generalizing to non-image data."]}
+{"seg_id": "292", "set_id": "292", "refs": ["We reduce sentiment biases based on counterfactual evaluation of text generation using language models."]}
+{"seg_id": "293", "set_id": "293", "refs": ["A Bayesian Nonparametric Topic Model with Variational Auto-Encoders which achieves the state-of-the-arts on public benchmarks in terms of perplexity, topic coherence and retrieval tasks."]}
+{"seg_id": "294", "set_id": "294", "refs": ["We present a novel framework of Knowledge Distillation utilizing peer samples as the teacher"]}
+{"seg_id": "295", "set_id": "295", "refs": ["learn hierarchal sub-policies through end-to-end training over a distribution of tasks"]}
+{"seg_id": "296", "set_id": "296", "refs": ["Convolutional neural network model for unsupervised document embedding."]}
+{"seg_id": "297", "set_id": "297", "refs": ["We prove generalization bounds for convolutional neural networks that take account of weight-tying"]}
+{"seg_id": "298", "set_id": "298", "refs": ["2x savings in model size, 28% energy reduction for MobileNets on ImageNet at no loss in accuracy using hybrid layers composed of conventional full-precision filters and ternary filters"]}
+{"seg_id": "299", "set_id": "299", "refs": ["We establish a benchmark of controlled real noise and reveal several interesting findings about real-world noisy data."]}
+{"seg_id": "300", "set_id": "300", "refs": ["We learn to solve the RNA Design problem with reinforcement learning using meta learning and autoML approaches."]}
+{"seg_id": "301", "set_id": "301", "refs": ["Training small networks beats pruning, but pruning finds good small networks to train that are easy to copy."]}
+{"seg_id": "302", "set_id": "302", "refs": ["We study the problem of learning to predict the underlying diversity of beliefs present in supervised learning domains."]}
+{"seg_id": "303", "set_id": "303", "refs": ["We introduced a strategy which enables inpainting models on datasets of various sizes"]}
+{"seg_id": "304", "set_id": "304", "refs": ["We find evidence that divergence minimization may not be an accurate characterization of GAN training."]}
+{"seg_id": "305", "set_id": "305", "refs": ["A new & practical statistical test of dependency using neural networks, benchmarked on synthetic and a real fMRI datasets."]}
+{"seg_id": "306", "set_id": "306", "refs": ["Image captioning using two-dimensional word embedding."]}
+{"seg_id": "307", "set_id": "307", "refs": ["LEAP combines the strength of adaptive sampling with that of mini-batch online learning and adaptive representation learning to formulate a representative self-paced strategy in an end-to-end DNN training protocol."]}
+{"seg_id": "308", "set_id": "308", "refs": ["We propose to construct macro actions by a genetic algorithm, which eliminates the dependency of the macro action derivation procedure from the past policies of the agent."]}
+{"seg_id": "309", "set_id": "309", "refs": ["We propose an extension to LFADS capable of inferring spike trains to reconstruct calcium fluorescence traces using hierarchical VAEs."]}
+{"seg_id": "310", "set_id": "310", "refs": ["We introduce the first successful method to train neural machine translation in an unsupervised manner, using nothing but monolingual corpora"]}
+{"seg_id": "311", "set_id": "311", "refs": ["We train generative adversarial networks in a progressive fashion, enabling us to generate high-resolution images with high quality."]}
+{"seg_id": "312", "set_id": "312", "refs": ["A graph-based spherical CNN that strikes an interesting balance of trade-offs for a wide variety of applications."]}
+{"seg_id": "313", "set_id": "313", "refs": ["We prove fluctuation-dissipation relations for SGD, which can be used to (i) adaptively set learning rates and (ii) probe loss surfaces."]}
+{"seg_id": "314", "set_id": "314", "refs": ["We propose a mechanism for denoising the internal state of an RNN to improve generalization performance."]}
+{"seg_id": "315", "set_id": "315", "refs": ["For environments dictated partially by external input processes, we derive an input-dependent baseline that provably reduces the variance for policy gradient methods and improves the policy performance in a wide range of RL tasks."]}
+{"seg_id": "316", "set_id": "316", "refs": ["Augmenting the top layer of a classifier network with a style memory enables it to be generative."]}
+{"seg_id": "317", "set_id": "317", "refs": ["Per-example routing models benefit from architectural diversity, but still struggle to scale to a large number of routing decisions."]}
+{"seg_id": "318", "set_id": "318", "refs": ["We present RNNs for training surrogate models of PDEs, wherein consistency constraints ensure the solutions are physically meaningful, even when the training uses much smaller domains than the trained model is applied to."]}
+{"seg_id": "319", "set_id": "319", "refs": ["We propose the use of optimistic mirror decent to address cycling problems in the training of GANs. We also introduce the Optimistic Adam algorithm"]}
+{"seg_id": "320", "set_id": "320", "refs": ["A simple extension of generalized matrix factorization can outperform state-of-the-art approaches for recommendation."]}
+{"seg_id": "321", "set_id": "321", "refs": ["A method that build representations of sequential data and its dynamics through generative models with an active process"]}
+{"seg_id": "322", "set_id": "322", "refs": ["We propose polynomial as activation functions."]}
+{"seg_id": "323", "set_id": "323", "refs": ["A simple intrinsic motivation method using forward dynamics model error in feature space of the policy."]}
+{"seg_id": "324", "set_id": "324", "refs": ["We show that disentangled VAEs are more robust than vanilla VAEs to adversarial attacks that aim to trick them into decoding the adversarial input to a chosen target. We then develop an even more robust hierarchical disentangled VAE, Seatbelt-VAE."]}
+{"seg_id": "325", "set_id": "325", "refs": ["We demonstrate that function changes in the backpropagation is equivalent to an implicit learning rate"]}
+{"seg_id": "326", "set_id": "326", "refs": ["A reinforcement learning approach to text style transfer"]}
+{"seg_id": "327", "set_id": "327", "refs": ["We show that highly-structured semantic hierarchy emerges in the deep generative representations as a result for synthesizing scenes."]}
+{"seg_id": "328", "set_id": "328", "refs": ["We pool messages amongst multiple SMILES strings of the same molecule to pass information along all paths through the molecular graph, producing latent representations that significantly surpass the state-of-the-art in a variety of tasks."]}
+{"seg_id": "329", "set_id": "329", "refs": ["We propose a simple and general approach that avoids a mode collapse problem in various conditional GANs."]}
+{"seg_id": "330", "set_id": "330", "refs": ["Equipping the transformer model with shortcuts to the embedding layer frees up model capacity for learning novel information."]}
+{"seg_id": "331", "set_id": "331", "refs": ["We examine the relationship between probability density values and image content in non-invertible GANs."]}
+{"seg_id": "332", "set_id": "332", "refs": ["We propose spatially shuffled convolution that the regular convolution incorporates the information from outside of its receptive field."]}
+{"seg_id": "333", "set_id": "333", "refs": ["A method to model the generative distribution of sequences coming from graph connected entities."]}
+{"seg_id": "334", "set_id": "334", "refs": ["Our work applies meta-learning to multi-agent Reinforcement Learning to help our agent efficiently adapted to new coming opponents."]}
+{"seg_id": "335", "set_id": "335", "refs": ["We characterize the singular values of the linear transformation associated with a standard 2D multi-channel convolutional layer, enabling their efficient computation."]}
+{"seg_id": "336", "set_id": "336", "refs": ["VariBAD opens a path to tractable approximate Bayes-optimal exploration for deep RL using ideas from meta-learning, Bayesian RL, and approximate variational inference."]}
+{"seg_id": "337", "set_id": "337", "refs": ["We show metric learning can help reduce catastrophic forgetting"]}
+{"seg_id": "338", "set_id": "338", "refs": ["We present NormCo, a deep coherence model which considers the semantics of an entity mention, as well as the topical coherence of the mentions within a single document to perform disease entity normalization."]}
+{"seg_id": "339", "set_id": "339", "refs": ["We explore the role of multiplicative interaction as a unifying framework to describe a range of classical and modern neural network architectural motifs, such as gating, attention layers, hypernetworks, and dynamic convolutions amongst others."]}
+{"seg_id": "340", "set_id": "340", "refs": ["An effective text-conditioning GAN framework for generating videos from text"]}
+{"seg_id": "341", "set_id": "341", "refs": ["SplitLBI is applied to deep learning to explore model structural sparsity, achieving state-of-the-art performance in ImageNet-2012 and unveiling effective subnet architecture."]}
+{"seg_id": "342", "set_id": "342", "refs": ["We propose gated mechanisms to enhance learned ISTA for sparse coding, with theoretical guarantees on the superiority of the method."]}
+{"seg_id": "343", "set_id": "343", "refs": ["We present an efficient and adaptive framework for comparing image classifiers to maximize the discrepancies between the classifiers, in place of comparing on fixed test sets."]}
+{"seg_id": "344", "set_id": "344", "refs": ["We propose a technique that modifies CNN structures to enhance robustness while keeping high test accuracy, and raise doubt on whether current definition of adversarial examples is appropriate by generating adversarial examples able to fool humans."]}
+{"seg_id": "345", "set_id": "345", "refs": ["We propose to compare semi-supervised and robust learning to noisy label under a shared setting"]}
+{"seg_id": "346", "set_id": "346", "refs": ["This paper experimentally demonstrates the beneficial effect of top-down connections in Hierarchical Sparse Coding algorithm."]}
+{"seg_id": "347", "set_id": "347", "refs": ["A black box approach for explaining the predictions of an image similarity model."]}
+{"seg_id": "348", "set_id": "348", "refs": ["How you should evaluate adversarial attacks on seq2seq"]}
+{"seg_id": "349", "set_id": "349", "refs": ["An alternative normalization technique to batch normalization"]}
+{"seg_id": "350", "set_id": "350", "refs": ["Represent each entity as a probability distribution over contexts embedded in a ground space."]}
+{"seg_id": "351", "set_id": "351", "refs": ["Small adversarial perturbations should be expected given observed error rates of models outside the natural data distribution."]}
+{"seg_id": "352", "set_id": "352", "refs": ["Studies how self-supervised learning and knowledge distillation interact in the context of building compact models."]}
+{"seg_id": "353", "set_id": "353", "refs": ["We introduce the universal deep neural network compression scheme, which is applicable universally for compression of any models and can perform near-optimally regardless of their weight distribution."]}
+{"seg_id": "354", "set_id": "354", "refs": ["This paper tries to preliminarily address the disentanglement theoretically in the idealistic situation and practically through noise modelling perspective in the realistic case."]}
+{"seg_id": "355", "set_id": "355", "refs": ["We investigate weight decay regularization for different optimizers and identify three distinct mechanisms by which weight decay improves generalization."]}
+{"seg_id": "356", "set_id": "356", "refs": ["The very first freely available domain adaptation dataset for sound event detection."]}
+{"seg_id": "357", "set_id": "357", "refs": ["Mutual information estimator based nonextensive statistical mechanics"]}
+{"seg_id": "358", "set_id": "358", "refs": ["We show that stochastic gradient descent ascent converges to a global optimum for WGAN with one-layer generator network."]}
+{"seg_id": "359", "set_id": "359", "refs": ["We empirically show that adversarial training is effective for removing universal perturbations, makes adversarial examples less robust to image transformations, and leaves them detectable for a detection approach."]}
+{"seg_id": "360", "set_id": "360", "refs": ["We introduce techniques to train a single once-for-all network that fits many hardware platforms."]}
+{"seg_id": "361", "set_id": "361", "refs": ["Propose an approach for boosting generative models by cascading hidden variable models"]}
+{"seg_id": "362", "set_id": "362", "refs": ["We probe for sentence structure in ELMo and related contextual embedding models. We find existing models efficiently encode syntax and show evidence of long-range dependencies, but only offer small improvements on semantic tasks."]}
+{"seg_id": "363", "set_id": "363", "refs": ["We introduce DPFRL, a framework for reinforcement learning under partial and complex observations with a fully differentiable discriminative particle filter"]}
+{"seg_id": "364", "set_id": "364", "refs": ["Monte Carlo Objectives are analyzed using auxiliary variable variational inference, yielding a new analysis of CPC and NCE as well as a new generative model."]}
+{"seg_id": "365", "set_id": "365", "refs": ["We improve the running of all existing gradient descent algorithms."]}
+{"seg_id": "366", "set_id": "366", "refs": ["Limitations of current AI are generally recognized, but fewer people are aware that we understand enough about the brain to immediately offer novel AI formulations."]}
+{"seg_id": "367", "set_id": "367", "refs": ["We use question-answering to evaluate how much knowledge about the environment can agents learn by self-supervised prediction."]}
+{"seg_id": "368", "set_id": "368", "refs": ["We develop a new method for imbalanced classification using adversarial examples"]}
+{"seg_id": "369", "set_id": "369", "refs": ["An interesting application of CNN in soft condensed matter physics experiments."]}
+{"seg_id": "370", "set_id": "370", "refs": ["An analysis of the effects of compositionality and locality on representation learning for zero-shot learning."]}
+{"seg_id": "371", "set_id": "371", "refs": ["Adversarial error has similar power-law form for all datasets and models studied, and architecture matters."]}
+{"seg_id": "372", "set_id": "372", "refs": ["We present a formulation of curiosity as a visual representation learning problem and show that it allows good visual representations in agents."]}
+{"seg_id": "373", "set_id": "373", "refs": ["From an incomplete RGB-D scan of a scene, we aim to detect the individual object instances comprising the scene and infer their complete object geometry."]}
+{"seg_id": "374", "set_id": "374", "refs": ["XGAN is an unsupervised model for feature-level image-to-image translation applied to semantic style transfer problems such as the face-to-cartoon task, for which we introduce a new dataset."]}
+{"seg_id": "375", "set_id": "375", "refs": ["Workers send gradient signs to the server, and the update is decided by majority vote. We show that this algorithm is convergent, communication efficient and fault tolerant, both in theory and in practice."]}
+{"seg_id": "376", "set_id": "376", "refs": ["We correct nuisance variation for image embeddings across different domains, preserving only relevant information."]}
+{"seg_id": "377", "set_id": "377", "refs": ["A scalable in sample size and dimensions mutual information estimator."]}
+{"seg_id": "378", "set_id": "378", "refs": ["The new combination of reinforcement and supervised learning, dramatically decreasing the number of required samples for training on video"]}
+{"seg_id": "379", "set_id": "379", "refs": ["Fast learning via episodic memory verified by a biologically plausible framework for prefrontal cortex-basal ganglia-hippocampus (PFC-BG) circuit"]}
+{"seg_id": "380", "set_id": "380", "refs": ["In this work, we point to a new connection between DNNs expressivity and Sharkovsky’s Theorem from dynamical systems, that enables us to characterize the depth-width trade-offs of ReLU networks"]}
+{"seg_id": "381", "set_id": "381", "refs": ["We investigate quantization-aware training in very low-bit quantized keyword spotters to reduce the cost of on-device keyword spotting."]}
+{"seg_id": "382", "set_id": "382", "refs": ["A novel graph signal processing framework for quantifying the effects of experimental perturbations in single cell biomedical data."]}
+{"seg_id": "383", "set_id": "383", "refs": ["We propose a class of user models based on using Gaussian processes applied to a transformed space defined by decision rules"]}
+{"seg_id": "384", "set_id": "384", "refs": ["We propose a Bayes-optimal Bayesian optimization algorithm for hyperparameter tuning by exploiting cheap approximations."]}
+{"seg_id": "385", "set_id": "385", "refs": ["We efficiently verify the robustness of deep neural models with over 100,000 ReLUs, certifying more samples than the state-of-the-art and finding more adversarial examples than a strong first-order attack."]}
+{"seg_id": "386", "set_id": "386", "refs": ["A set of methods to obtain uncertainty estimation of any given model without re-designing, re-training, or to fine-tuning it."]}
+{"seg_id": "387", "set_id": "387", "refs": ["Proposed higher order operation for context learning"]}
+{"seg_id": "388", "set_id": "388", "refs": ["Consistency-based models for semi-supervised learning do not converge to a single point but continue to explore a diverse set of plausible solutions on the perimeter of a flat region. Weight averaging helps improve generalization performance."]}
+{"seg_id": "389", "set_id": "389", "refs": ["We successfully convert a popular detector RPN to a well-performed tracker from the viewpoint of loss function."]}
+{"seg_id": "390", "set_id": "390", "refs": ["A neural architecture for scoring and ranking program repair candidates to perform semantic program repair statically without access to unit tests."]}
+{"seg_id": "391", "set_id": "391", "refs": ["Is it possible to co-design model accuracy, robustness and efficiency to achieve their triple wins? Yes!"]}
+{"seg_id": "392", "set_id": "392", "refs": ["We show that individual units in CNN representations learned in NLP tasks are selectively responsive to specific natural language concepts."]}
+{"seg_id": "393", "set_id": "393", "refs": ["It is a mostly theoretical paper that describes the challenges in disentangling factors of variation, using autoencoders and GAN."]}
+{"seg_id": "394", "set_id": "394", "refs": ["learning to rank with several embeddings and attentions"]}
+{"seg_id": "395", "set_id": "395", "refs": ["We developed an algorithm that takes as input recordings of neural activity and returns clusters of neurons by cell type and models of neural activity constrained by these clusters."]}
+{"seg_id": "396", "set_id": "396", "refs": ["We supervise graph neural networks to imitate intermediate and step-wise outputs of classical graph algorithms, recovering highly favourable insights."]}
+{"seg_id": "397", "set_id": "397", "refs": ["We describe an architecture for generating diverse hypotheses for intermediate goals during robotic manipulation tasks."]}
+{"seg_id": "398", "set_id": "398", "refs": ["This paper provides novel analysis of adaptive gradient algorithms for solving non-convex non-concave min-max problems as GANs, and explains the reason why adaptive gradient methods outperform its non-adaptive counterparts by empirical studies."]}
+{"seg_id": "399", "set_id": "399", "refs": ["We learn sohpisticated trajectories of an object purely from pixels with a toy video dataset by using a VAE structure with a Gaussian process prior."]}
+{"seg_id": "400", "set_id": "400", "refs": ["We investigate the neural basis of dream recall using convolutional neural network and feature visualization techniques, like tSNE and guided-backpropagation."]}
+{"seg_id": "401", "set_id": "401", "refs": ["This paper proposes a new formulation and a new communication protocol for networked multi-agent control problems"]}
+{"seg_id": "402", "set_id": "402", "refs": ["Mean field VB uses twice as many parameters; we tie variance parameters in mean field VB without any loss in ELBO, gaining speed and lower variance gradients."]}
+{"seg_id": "403", "set_id": "403", "refs": ["We effectively leverage a few keywords as weak supervision for training neural networks for aspect extraction."]}
+{"seg_id": "404", "set_id": "404", "refs": ["Horizontal and top-down feedback connections are responsible for complementary perceptual grouping strategies in biological and recurrent vision systems."]}
+{"seg_id": "405", "set_id": "405", "refs": ["We introduce GAN-TTS, a Generative Adversarial Network for Text-to-Speech, which achieves Mean Opinion Score (MOS) 4.2."]}
+{"seg_id": "406", "set_id": "406", "refs": ["we propose an algorithm of learning to prune network by enforcing structure sparsity penalties"]}
+{"seg_id": "407", "set_id": "407", "refs": ["We introduce unsupervised continual learning (UCL) and a neuro-inspired architecture that solves the UCL problem."]}
+{"seg_id": "408", "set_id": "408", "refs": ["New Signal Extraction Method in the Fourier Domain"]}
+{"seg_id": "409", "set_id": "409", "refs": ["We present a novel framework to learn the disentangled representation of content and style in a completely unsupervised manner."]}
+{"seg_id": "410", "set_id": "410", "refs": ["We develop a CATE estimation strategy that takes advantage some of the intriguing properties of neural networks."]}
+{"seg_id": "411", "set_id": "411", "refs": ["Device-agnostic Firmware Execution"]}
+{"seg_id": "412", "set_id": "412", "refs": ["An architecture for tabular data, which emulates branches of decision trees and uses dense residual connectivity"]}
+{"seg_id": "413", "set_id": "413", "refs": ["YellowFin is an SGD based optimizer with both momentum and learning rate adaptivity."]}
+{"seg_id": "414", "set_id": "414", "refs": ["Adversarial attacks on the latent space of variational autoencoders to change the semantic meaning of inputs"]}
+{"seg_id": "415", "set_id": "415", "refs": ["An empirical study that examines the effectiveness of different encoder-decoder combinations for the task of dependency parsing"]}
+{"seg_id": "416", "set_id": "416", "refs": ["Teacher that trains meta-learners like humans"]}
+{"seg_id": "417", "set_id": "417", "refs": ["We introduce an embedding space approach to constrain neural network output probability distribution."]}
+{"seg_id": "418", "set_id": "418", "refs": ["We introduce a new type of deep contextualized word representation that significantly improves the state of the art for a range of challenging NLP tasks."]}
+{"seg_id": "419", "set_id": "419", "refs": ["This work introduces a novel loss function for the robust training of temporal localization DNN in the presence of misaligned labels."]}
+{"seg_id": "420", "set_id": "420", "refs": ["We introduce the notion of mixed tensor decompositions, and use it to prove that interconnecting dilated convolutional networks boosts their expressive power."]}
+{"seg_id": "421", "set_id": "421", "refs": ["multi-task learning works"]}
+{"seg_id": "422", "set_id": "422", "refs": ["We provide a principled, optimization-based re-look at the notion of adversarial examples, and develop methods that produce models that are adversarially robust against a wide range of adversaries."]}
+{"seg_id": "423", "set_id": "423", "refs": ["Many graph classification data sets have duplicates, thus raising questions about generalization abilities and fair comparison of the models."]}
+{"seg_id": "424", "set_id": "424", "refs": ["We introduce a notion of conservatively-extrapolated value functions, which provably lead to policies that can self-correct to stay close to the demonstration states, and learn them with a novel negative sampling technique."]}
+{"seg_id": "425", "set_id": "425", "refs": ["Contrastively-trained Structured World Models (C-SWMs) learn object-oriented state representations and a relational model of an environment from raw pixel input."]}
+{"seg_id": "426", "set_id": "426", "refs": ["Unsupervised methods for finding, analyzing, and controlling important neurons in NMT"]}
+{"seg_id": "427", "set_id": "427", "refs": ["We present doubly sparse softmax, the sparse mixture of sparse of sparse experts, to improve the efficiency for softmax inference through exploiting the two-level overlapping hierarchy."]}
+{"seg_id": "428", "set_id": "428", "refs": ["This paper presents empirical evidence supporting the discovery of an indicator of generalization: the evolution across training of the cosine distance between each layer's weight vector and its initialization."]}
+{"seg_id": "429", "set_id": "429", "refs": ["Models of source code that combine global and structural features learn more powerful representations of programs."]}
+{"seg_id": "430", "set_id": "430", "refs": ["Incremental-RNNs resolves exploding/vanishing gradient problem by updating state vectors based on difference between previous state and that predicted by an ODE."]}
+{"seg_id": "431", "set_id": "431", "refs": ["We provide evidence against classical claims about the bias-variance tradeoff and propose a novel decomposition for variance."]}
+{"seg_id": "432", "set_id": "432", "refs": ["We proposed a novel deep learning image classification framework that can both accurately classify images and protect users' privacy."]}
+{"seg_id": "433", "set_id": "433", "refs": ["a 2vec model for cryptocurrency transaction graphs"]}
+{"seg_id": "434", "set_id": "434", "refs": ["Convergence proof of stochastic sub-gradients method and variations on convex-concave minimax problems"]}
+{"seg_id": "435", "set_id": "435", "refs": ["We propose an algorithmic framework to schedule constellations of small spacecraft with 3-DOF re-orientation capabilities, networked with inter-sat links."]}
+{"seg_id": "436", "set_id": "436", "refs": ["We proposed a novel compressed kernelized importance sampling algorithm."]}
+{"seg_id": "437", "set_id": "437", "refs": ["We study the structure of ridge regression in a high-dimensional asymptotic framework, and get insights about cross-validation and sketching."]}
+{"seg_id": "438", "set_id": "438", "refs": ["We analyze the loss landscape of neural networks with attention and explain why attention is helpful in training neural networks to achieve good performance."]}
+{"seg_id": "439", "set_id": "439", "refs": ["Mixture Model for Neural Disentanglement"]}
+{"seg_id": "440", "set_id": "440", "refs": ["We developed robust mutual information estimates for DNNs and used them to observe compression in networks with non-saturating activation functions"]}
+{"seg_id": "441", "set_id": "441", "refs": ["We present the TimbreTron, a pipeline for perfoming high-quality timbre transfer on musical waveforms using CQT-domain style transfer."]}
+{"seg_id": "442", "set_id": "442", "refs": ["The paper presents Deep Rewiring, an algorithm that can be used to train deep neural networks when the network connectivity is severely constrained during training."]}
+{"seg_id": "443", "set_id": "443", "refs": ["Existing pruning methods fail when applied to GANs tackling complex tasks, so we present a simple and robust method to prune generators that works well for a wide variety of networks and tasks."]}
+{"seg_id": "444", "set_id": "444", "refs": ["we find 99.9% of the gradient exchange in distributed SGD is redundant; we reduce the communication bandwidth by two orders of magnitude without losing accuracy."]}
+{"seg_id": "445", "set_id": "445", "refs": ["We propose the Exemplar Guided & Semantically Consistent Image-to-image Translation (EGSC-IT) network which conditions the translation process on an exemplar image in the target domain."]}
+{"seg_id": "446", "set_id": "446", "refs": ["Imposing graph structure on neural network layers for improved visual interpretability."]}
+{"seg_id": "447", "set_id": "447", "refs": ["We show that Energy-Based models when trained on the residual of an auto-regressive language model can be used effectively and efficiently to generate text."]}
+{"seg_id": "448", "set_id": "448", "refs": ["systematic study of large-scale cache-based image recognition models, focusing particularly on their robustness properties"]}
+{"seg_id": "449", "set_id": "449", "refs": ["The paper describes a flexible framework for building CNNs that are equivariant to a large class of transformations groups."]}
+{"seg_id": "450", "set_id": "450", "refs": ["A benchmark of nine representative global pooling schemes reveals some interesting findings."]}
+{"seg_id": "451", "set_id": "451", "refs": ["Self-supervision improves few-shot recognition on small and challenging datasets without relying on extra data; Extra data helps only when it is from the same or similar domain."]}
+{"seg_id": "452", "set_id": "452", "refs": ["We create abstract models of environments from experience and use them to learn new tasks faster."]}
+{"seg_id": "453", "set_id": "453", "refs": ["We expand Network Dissection to include action interpretation and examine interpretable feature paths to understand the conceptual hierarchy used to classify an action."]}
+{"seg_id": "454", "set_id": "454", "refs": ["We propose a novel model to represent notes and their properties, which can enhance the automatic melody generation."]}
+{"seg_id": "455", "set_id": "455", "refs": ["A method that automatically grows layers in neural networks to discover optimal depth."]}
+{"seg_id": "456", "set_id": "456", "refs": ["Exploration of in-domain representation learning for remote sensing datasets."]}
+{"seg_id": "457", "set_id": "457", "refs": ["Avoid generating responses one word at a time by using weak supervision to training a classifier  to pick a full response."]}
+{"seg_id": "458", "set_id": "458", "refs": ["Finite-width SGD trained CNNs vs. infinitely wide fully Bayesian CNNs. Who wins?"]}
+{"seg_id": "459", "set_id": "459", "refs": ["We scale Bayesian Inference to ImageNet classification and achieve competitive results accuracy and uncertainty calibration."]}
+{"seg_id": "460", "set_id": "460", "refs": ["An empirical study on fake images reveals that texture is an important cue that current fake images differ from real images. Our improved model capturing global texture statistics shows better cross-GAN fake image detection performance."]}
+{"seg_id": "461", "set_id": "461", "refs": ["The Wasserstein distance is hard to minimize with stochastic gradient descent, while the Cramer distance can be optimized easily and works just as well."]}
+{"seg_id": "462", "set_id": "462", "refs": ["We learn the arrow of time for MDPs and use it to measure reachability, detect side-effects and obtain a curiosity reward signal."]}
+{"seg_id": "463", "set_id": "463", "refs": ["We formulated SGD as a Bayesian filtering problem, and show that this gives rise to RMSprop, Adam, AdamW, NAG and other features of state-of-the-art adaptive methods"]}
+{"seg_id": "464", "set_id": "464", "refs": ["We introduce the idea of adversarial learning into automatic data augmentation to improve the generalization  of a targe network."]}
+{"seg_id": "465", "set_id": "465", "refs": ["The study introduces two approaches to enhance generalization of first-order meta-learning and presents empirical evaluation on few-shot image classification."]}
+{"seg_id": "466", "set_id": "466", "refs": ["This paper proposes using matrix factorization at training time for neural machine translation, which can reduce model size and decrease training time without harming performance."]}
+{"seg_id": "467", "set_id": "467", "refs": ["Different methods for analyzing BERT suggest different (but compatible) conclusions in a case study on NPIs."]}
+{"seg_id": "468", "set_id": "468", "refs": ["In this work, we present V1Net -- a novel recurrent neural network modeling cortical horizontal connections that give rise to robust visual representations through perceptual grouping."]}
+{"seg_id": "469", "set_id": "469", "refs": ["We propose a link between permutation equivariance and compositional generalization, and provide equivariant language models"]}
+{"seg_id": "470", "set_id": "470", "refs": ["The paper proposes an algorithm to increase the flexibility of the variational posterior in Bayesian neural networks through iterative optimization."]}
+{"seg_id": "471", "set_id": "471", "refs": ["New state-of-the-art framework for image restoration"]}
+{"seg_id": "472", "set_id": "472", "refs": ["Hybrid approach to model acquisition that compensates a lack of available data with domain specific knowledge provided by experts"]}
+{"seg_id": "473", "set_id": "473", "refs": ["We release a dataset constructed from single-lead ECG data from 11,000 patients who were prescribed to use the {DEVICENAME}(TM) device."]}
+{"seg_id": "474", "set_id": "474", "refs": ["A novel Context-Gated Convolution which incorporates global context information into CNNs by explicitly modulating convolution kernels, and thus captures more representative local patterns and extract discriminative features."]}
+{"seg_id": "475", "set_id": "475", "refs": ["We analyze the trade-off between quantization noise and clipping distortion in low precision networks, and show marked improvements over standard quantization schemes that normally avoid clipping"]}
+{"seg_id": "476", "set_id": "476", "refs": ["We propose a novel normalization method to handle small batch size cases."]}
+{"seg_id": "477", "set_id": "477", "refs": ["ReLU MLP depth seperation proof with gemoteric arguments"]}
+{"seg_id": "478", "set_id": "478", "refs": ["A new GAN based few-shot learning algorithm by synthesizing  diverse and discriminative Features"]}
+{"seg_id": "479", "set_id": "479", "refs": ["We demonstrate how structure in data sets impacts neural networks and introduce a generative model for synthetic data sets that reproduces this impact."]}
+{"seg_id": "480", "set_id": "480", "refs": ["We train deep neural networks based on diagonal and circulant matrices, and show that this type of networks are both compact and accurate on real world applications."]}
+{"seg_id": "481", "set_id": "481", "refs": ["We propose to leverage model distillation to learn global additive explanations in the form of feature shapes (that are more expressive than feature attributions) for models such as neural nets trained on tabular data."]}
+{"seg_id": "482", "set_id": "482", "refs": ["A large-scale multi-task learning framework with diverse training objectives to learn fixed-length sentence representations"]}
+{"seg_id": "483", "set_id": "483", "refs": ["We propose a neural bias annotator to benchmark models on their robustness to biased text datasets."]}
+{"seg_id": "484", "set_id": "484", "refs": ["We propose supervising VAE-style topic models by intelligently adjusting the prior on a per document basis. We find a logit-normal posterior provides the best performance."]}
+{"seg_id": "485", "set_id": "485", "refs": ["First comprehensive information plane analysis of large scale deep neural networks using matrix based entropy and tensor kernels."]}
+{"seg_id": "486", "set_id": "486", "refs": ["We propose a modular framework that can accomplish tasks specified by programs and achieve zero-shot generalization to more complex tasks."]}
+{"seg_id": "487", "set_id": "487", "refs": ["We prove randomly initialized (stochastic) gradient descent learns a convolutional filter in polynomial time."]}
+{"seg_id": "488", "set_id": "488", "refs": ["The first data augmentation method specially designed for improving the general robustness of DNN without any hypothesis on the attacking algorithms."]}
+{"seg_id": "489", "set_id": "489", "refs": ["Using Wasserstein-GANs to generate realistic neural activity and to detect the most relevant features present in neural population patterns."]}
+{"seg_id": "490", "set_id": "490", "refs": ["Doubly reparameterized gradient estimators provide unbiased variance reduction which leads to improved performance."]}
+{"seg_id": "491", "set_id": "491", "refs": ["Gradientless Descent is a provably efficient gradient-free algorithm that is monotone-invariant and fast for high-dimensional zero-th order optimization."]}
+{"seg_id": "492", "set_id": "492", "refs": ["We propose a new class of visual generative models: goal-conditioned predictors. We show experimentally that conditioning on the goal allows to reduce uncertainty and produce predictions over much longer horizons."]}
+{"seg_id": "493", "set_id": "493", "refs": ["We propose a deep Multi Instance Learning framework based on recurrent neural networks which uses pooling functions and attention mechanisms for the concept annotation tasks."]}
+{"seg_id": "494", "set_id": "494", "refs": ["Embedding layers are factorized with Tensor Train decomposition to reduce their memory footprint."]}
+{"seg_id": "495", "set_id": "495", "refs": ["Fixing weight decay regularization in adaptive gradient methods such as Adam"]}
+{"seg_id": "496", "set_id": "496", "refs": ["Lifelong distributional learning through a student-teacher architecture coupled with a cross model posterior regularizer."]}
+{"seg_id": "497", "set_id": "497", "refs": ["Deep autoencoders to learn a good representation for geometric 3D point-cloud data; Generative models for point clouds."]}
+{"seg_id": "498", "set_id": "498", "refs": ["We propose a novel method for suppressing the vulnerability of latent feature space to achieve robust and compact networks."]}
+{"seg_id": "499", "set_id": "499", "refs": ["We proposed two VAE modifications that account for negative data examples, and used them for semi-supervised anomaly detection."]}
+{"seg_id": "500", "set_id": "500", "refs": ["New understanding of training dynamics and metrics of memorization hardness lead to efficient and provable curriculum learning."]}
+{"seg_id": "501", "set_id": "501", "refs": ["History of parallel developments in update laws and concepts between adaptive control and optimization in machine learning."]}
+{"seg_id": "502", "set_id": "502", "refs": ["Recurrent convolution for model compression and a trick for training it, that is learning independent BN layres over steps."]}
+{"seg_id": "503", "set_id": "503", "refs": ["Dynamic receptive fields with spatial Gaussian structure are accurate and efficient."]}
+{"seg_id": "504", "set_id": "504", "refs": ["A trick on adversarial samples so that the mis-classified labels are imperceptible in the label space to human observers"]}
+{"seg_id": "505", "set_id": "505", "refs": ["This paper presents noise type/position classification of various impact noises generated in a building which is a serious conflict issue in apartment complexes"]}
+{"seg_id": "506", "set_id": "506", "refs": ["Recurrent Neural Networks learn to  increase and reduce the dimensionality of their internal representation in a way that matches the task, depending on the dynamics of the initial network."]}
+{"seg_id": "507", "set_id": "507", "refs": ["Instead of strict distribution alignments in traditional deep domain adaptation objectives, which fails when target label distribution shifts, we propose to optimize a relaxed objective with new analysis, new algorithms, and experimental validation."]}
+{"seg_id": "508", "set_id": "508", "refs": ["we explore the task of summary-to-article generation and propose a hierarchical generation scheme together with a jointly end-to-end reinforcement learning framework to train the hierarchical model."]}
+{"seg_id": "509", "set_id": "509", "refs": ["We propose counterfactual regularization to guard against adversarial domain shifts arising through shifts in the distribution of latent \"style features\" of images."]}
+{"seg_id": "510", "set_id": "510", "refs": ["We propose a meta-learner to adapt quickly on multiple tasks even one step in a few-shot setting."]}
+{"seg_id": "511", "set_id": "511", "refs": ["Question answering models that model the joint distribution of questions and answers can learn more than discriminative models"]}
+{"seg_id": "512", "set_id": "512", "refs": ["A new activation function called Displaced Rectifier Linear Unit is proposed. It is showed to enhance the training and inference performance of batch normalized convolutional neural networks."]}
+{"seg_id": "513", "set_id": "513", "refs": ["We construct scale-equivariant convolutional neural networks in the most general form with both computational efficiency and proved deformation robustness."]}
+{"seg_id": "514", "set_id": "514", "refs": ["We diagnose deep neural networks for 3D point cloud processing to explore the utility of different network architectures."]}
+{"seg_id": "515", "set_id": "515", "refs": ["Utilizing the structure of distributions improves semi-implicit variational inference"]}
+{"seg_id": "516", "set_id": "516", "refs": ["Self-imitation learning of diverse trajectories with trajectory-conditioned policy"]}
+{"seg_id": "517", "set_id": "517", "refs": ["A method that trains large capacity neural networks with significantly improved accuracy and lower dynamic computational cost"]}
+{"seg_id": "518", "set_id": "518", "refs": ["We present an end-to-end differentiable architecture that learns to map pixels to predicates, and evaluate it on a suite of simple relational reasoning tasks"]}
+{"seg_id": "519", "set_id": "519", "refs": ["We use neural networks to project superficial information out for natural language inference by defining and identifying the superficial information from the perspective of first-order logic."]}
+{"seg_id": "520", "set_id": "520", "refs": ["Algorithm for training individually fair classifier using adversarial robustness"]}
+{"seg_id": "521", "set_id": "521", "refs": ["Is seeding and augmentation all you need for classifying digits in any language?"]}
+{"seg_id": "522", "set_id": "522", "refs": ["The success of MAML relies on feature reuse from the meta-initialization, which also yields a natural simplification of the algorithm, with the inner loop removed for the network body, as well as other insights on the head and body."]}
+{"seg_id": "523", "set_id": "523", "refs": ["We provide a method-agnostic algorithm for deciding when to incrementally train versus fully train and it provides a significant speedup over fully training and avoids catastrophic forgetting"]}
+{"seg_id": "524", "set_id": "524", "refs": ["We develop a theoretical framework to characterize which reasoning tasks a neural network can learn well."]}
+{"seg_id": "525", "set_id": "525", "refs": ["We explore cell-cell interactions across tumor environment contexts observed in highly multiplexed images, by image synthesis using a novel attention GAN architecture."]}
+{"seg_id": "526", "set_id": "526", "refs": ["A two-stage approach consisting of sentence selection followed by span selection can be made more robust to adversarial attacks in comparison to a single-stage model trained on full context."]}
+{"seg_id": "527", "set_id": "527", "refs": ["Verification of a human driver model based on a cognitive architecture and synthesis of a correct-by-construction ADAS from it."]}
+{"seg_id": "528", "set_id": "528", "refs": ["A novel, hybrid deep learning approach provides the best solution to a limited-data problem (which is important to the conservation of the Hawaiian language)"]}
+{"seg_id": "529", "set_id": "529", "refs": ["We quantitatively study out-of-distribution detection in few-shot setting, establish baseline results with ProtoNet, MAML, ABML, and improved upon them."]}
+{"seg_id": "530", "set_id": "530", "refs": ["This paper introduces progressive knowledge distillation for learning generative models that are recognition task oriented"]}
+{"seg_id": "531", "set_id": "531", "refs": ["We propose a new method for enhancing the transferability of adversarial examples by using the noise-reduced gradient."]}
+{"seg_id": "532", "set_id": "532", "refs": ["We present the iterative two-pass CP decomposition flow to effectively accelerate existing convolutional neural networks (CNNs)."]}
+{"seg_id": "533", "set_id": "533", "refs": ["LP-based upper bounds on the Lipschitz constant of Neural Networks"]}
+{"seg_id": "534", "set_id": "534", "refs": ["We address multi-domain few-shot classification by building multiple models to represent this complex task distribution in a collective way and simplifying task-specific adaptation as a selection problem from these pre-trained models."]}
+{"seg_id": "535", "set_id": "535", "refs": ["Neural-based removal of document ink artifacts (underlines, smudges, etc.) using no manually annotated training data"]}
+{"seg_id": "536", "set_id": "536", "refs": ["We propose a query-efficient black-box attack which uses Bayesian optimisation in combination with Bayesian model selection to optimise over the adversarial perturbation and the optimal degree of search space dimension reduction."]}
+{"seg_id": "537", "set_id": "537", "refs": ["We propose a model to learn factorized multimodal representations that are discriminative, generative, and interpretable."]}
+{"seg_id": "538", "set_id": "538", "refs": ["We develop a hierarchical, actor-critic algorithm for compositional transfer by sharing policy components and demonstrate component specialization and related direct benefits in multitask domains as well as its adaptation for single tasks."]}
+{"seg_id": "539", "set_id": "539", "refs": ["We empirically count the number of linear regions of rectifier networks and refine upper and lower bounds."]}
+{"seg_id": "540", "set_id": "540", "refs": ["We analyze the memorization properties by a convnet of the training set and propose several use-cases where we can extract some information about the training set."]}
+{"seg_id": "541", "set_id": "541", "refs": ["GANs can in principle learn distributions sample-efficiently, if the discriminator class is compact and has strong distinguishing power against the particular generator class."]}
+{"seg_id": "542", "set_id": "542", "refs": ["In the early phase of training of deep neural networks there exists a \"break-even point\" which determines properties of the entire optimization trajectory."]}
+{"seg_id": "543", "set_id": "543", "refs": ["We propose HWGCN to mix the relevant neighborhood information at different orders to better learn node representations."]}
+{"seg_id": "544", "set_id": "544", "refs": ["We introduce a novel measure of flatness at local minima of the loss surface of deep neural networks which is invariant with respect to layer-wise reparameterizations and we connect flatness to feature robustness and generalization."]}
+{"seg_id": "545", "set_id": "545", "refs": ["We propose to sparsify preactivations of gates and information flow in LSTM to make them constant and boost the neuron sparsity level"]}
+{"seg_id": "546", "set_id": "546", "refs": ["We introduce a neural network approach to assist partial differential equation solvers."]}
+{"seg_id": "547", "set_id": "547", "refs": ["a confederated learning method that train model from horizontally and vertically separated medical data"]}
+{"seg_id": "548", "set_id": "548", "refs": ["This paper proposes Stochastic Quantized Activation that solves overfitting problems in FGSM adversarial training and fastly achieves the robustness comparable to multi-step training."]}
+{"seg_id": "549", "set_id": "549", "refs": ["We study the structure of noise in the brain and find it may help generalization by moving representations along in-class stimulus variations."]}
+{"seg_id": "550", "set_id": "550", "refs": ["We present a new design, i.e., Self-Ensembling with Category-agnostic Clusters, for both closed-set and open-set domain adaptation."]}
+{"seg_id": "551", "set_id": "551", "refs": ["We show how to learn spectral decompositions of linear operators with deep learning, and use it for unsupervised learning without a generative model."]}
+{"seg_id": "552", "set_id": "552", "refs": ["Applying the Riemannian SGD (RSGD) algorithm for training Tensor-Train RNNs to further reduce model parameters."]}
+{"seg_id": "553", "set_id": "553", "refs": ["We propose a new algorithm that learns constraint-satisfying policies, and provide theoretical analysis and empirical demonstration in the context of reinforcement learning with constraints."]}
+{"seg_id": "554", "set_id": "554", "refs": ["We propose a gradient-based representation for characterizing information that deep networks have not learned."]}
+{"seg_id": "555", "set_id": "555", "refs": ["We introduce a “Zero-Shot” medical image Artifact Reduction framework, which leverages the power of deep learning but without using general pre-trained networks or any clean image reference."]}
+{"seg_id": "556", "set_id": "556", "refs": ["We apply the informational bottleneck concept to attribution."]}
+{"seg_id": "557", "set_id": "557", "refs": ["We show the RNNs can be pruned to induce block sparsity which improves speedup for sparse operations on existing hardware"]}
+{"seg_id": "558", "set_id": "558", "refs": ["We propose an improvement to value iteration networks, with applications to planetary rover path planning."]}
+{"seg_id": "559", "set_id": "559", "refs": ["A novel attention layer that combines self-attention and feed-forward sublayers of Transformer networks."]}
+{"seg_id": "560", "set_id": "560", "refs": ["We efficiently find a subset of images that have higher than expected activations for some subset of nodes.  These images appear more anomalous and easier to detect when viewed as a group."]}
+{"seg_id": "561", "set_id": "561", "refs": ["Stable recurrent models can be approximated by feed-forward networks and empirically perform as well as unstable models on benchmark tasks."]}
+{"seg_id": "562", "set_id": "562", "refs": ["Studied the role of weight sharing in neural networks using hash functions, found that a balanced and deterministic hash function helps network performance."]}
+{"seg_id": "563", "set_id": "563", "refs": ["We introduce a statistical relational learning system that borrows ideas from Markov logic but learns an implicit representation of rules as a neural network."]}
+{"seg_id": "564", "set_id": "564", "refs": ["A scalable method for learning an expressive prior over neural networks across multiple tasks."]}
+{"seg_id": "565", "set_id": "565", "refs": ["DISENTANGLED STATE SPACE MODELS"]}
+{"seg_id": "566", "set_id": "566", "refs": ["Bregman divergence learning for few-shot learning."]}
+{"seg_id": "567", "set_id": "567", "refs": ["We introduce a network framework which can modify its structure during training and show that it can converge to various ML network archetypes such as MLPs and LCNs."]}
+{"seg_id": "568", "set_id": "568", "refs": ["Domain guided augmentation of data provides a robust and stable method of domain generalization"]}
+{"seg_id": "569", "set_id": "569", "refs": ["We investigate alternative to traditional pixel image modelling approaches, and propose a generative model for vector images."]}
+{"seg_id": "570", "set_id": "570", "refs": ["We provide a study trying to see how the recent online learning rate adaptation extends the conclusion made by Wilson et al. 2018 about adaptive gradient methods, along with comparison and sensitivity analysis."]}
+{"seg_id": "571", "set_id": "571", "refs": ["We investigate the large-sample behaviors of the Q-value estimates and proposed an efficient exploration strategy that relies on estimating the relative discrepancies among the Q estimates."]}
+{"seg_id": "572", "set_id": "572", "refs": ["We train an image to image translation network that take as input the source image and a sample from a prior distribution to generate a sample from the target distribution"]}
+{"seg_id": "573", "set_id": "573", "refs": ["Learning to extract distinguishable keypoints from a proxy task, outlier rejection."]}
+{"seg_id": "574", "set_id": "574", "refs": ["We propose a formulation of intrinsic motivation that is suitable as an exploration bias in multi-agent sparse-reward synergistic tasks, by encouraging agents to affect the world in ways that would not be achieved if they were acting individually."]}
+{"seg_id": "575", "set_id": "575", "refs": ["An probabilistic inference algorithm driven by neural network for graph-structured models"]}
+{"seg_id": "576", "set_id": "576", "refs": ["We show how you can boost performance in a multitask network by tuning an adaptive multitask loss function that is learned through directly balancing network gradients."]}
+{"seg_id": "577", "set_id": "577", "refs": ["DNNs for image segmentation can implement solutions for the insideness problem but only some recurrent nets could learn them with a specific type of supervision."]}
+{"seg_id": "578", "set_id": "578", "refs": ["Given a pre-trained model, we explored the per-sample gradients of the model parameters relative to a task-specific loss, and constructed a linear model that combines gradients of model parameters and the activation of the model."]}
+{"seg_id": "579", "set_id": "579", "refs": ["We train our face reconstruction model with adversarial loss in semi-supervised manner on hybrid batches of unlabeled and labeled face images to exploit the value of large amounts of unlabeled face images from unconstrained photo collections."]}
+{"seg_id": "580", "set_id": "580", "refs": ["This paper presents ConceptFlow that explicitly models the conversation flow in commonsense knowledge graph for better conversation generation."]}
+{"seg_id": "581", "set_id": "581", "refs": ["We examine the hypothesis that the entropy of solution spaces for constraints on synaptic weights (the \"flexibility\" of the constraint) could serve as a cost function for neural circuit development."]}
+{"seg_id": "582", "set_id": "582", "refs": ["Infinite ensembles of infinitely wide neural networks are an interesting model family from an information theoretic perspective."]}
+{"seg_id": "583", "set_id": "583", "refs": ["We conduct a comparative study of cross-lingual alignment vs joint training methods and unify these two previously exclusive paradigms in a new framework."]}
+{"seg_id": "584", "set_id": "584", "refs": ["Combining orthogonal model compression techniques to get significant reduction in model size and number of flops required during inferencing."]}
+{"seg_id": "585", "set_id": "585", "refs": ["Introduces JAUNE: a methodology to replace BLEU and ROUGE score with multidimensional, model-based evaluators for assessing summaries"]}
+{"seg_id": "586", "set_id": "586", "refs": ["new GNN formalism + extensive experiments; showing differences between GGNN/GCN/GAT are smaller than thought"]}
+{"seg_id": "587", "set_id": "587", "refs": ["This paper propose a novel matrix decomposition framework for simultaneous attributed network data embedding and clustering."]}
+{"seg_id": "588", "set_id": "588", "refs": ["We propose a learned image-guided rendering technique that combines the benefits of image-based rendering and GAN-based image synthesis while considering view-dependent effects."]}
+{"seg_id": "589", "set_id": "589", "refs": ["GANs are evaluated on synthetic datasets"]}
+{"seg_id": "590", "set_id": "590", "refs": ["We propose an efficient and effective step size adaptation method for the gradient methods."]}
+{"seg_id": "591", "set_id": "591", "refs": ["We shot that a wide class of manifolds can be generated by ReLU and sigmoid networks with arbitrary precision."]}
+{"seg_id": "592", "set_id": "592", "refs": ["We design model-based reinforcement learning algorithms with theoretical guarantees and achieve state-of-the-art results on Mujuco benchmark tasks when one million or fewer samples are permitted."]}
+{"seg_id": "593", "set_id": "593", "refs": ["We present additional techniques to use knowledge distillation to compress U-net by over 1000x."]}
+{"seg_id": "594", "set_id": "594", "refs": ["This paper provides an approach to address catastrophic forgetting via Hessian-free curvature estimates"]}
+{"seg_id": "595", "set_id": "595", "refs": ["Method to improve simple models performance given a (accurate) complex model."]}
+{"seg_id": "596", "set_id": "596", "refs": ["A simple and practical algorithm for learning a margin-maximizing translation-invariant or spherically symmetric kernel from training data, using tools from Fourier analysis and regret minimization."]}
+{"seg_id": "597", "set_id": "597", "refs": ["Probabilistic Programming that Natively Supports Causal, Counterfactual Inference"]}
+{"seg_id": "598", "set_id": "598", "refs": ["Inference of a mean field game (MFG) model of large population behavior via a synthesis of MFG and Markov decision processes."]}
+{"seg_id": "599", "set_id": "599", "refs": ["We blend deep generative models with programmatic weak supervision to generate coordinated multi-agent trajectories of significantly higher quality than previous baselines."]}
+{"seg_id": "600", "set_id": "600", "refs": ["Learn to rank learning curves in order to stop unpromising training jobs early. Novelty: use of pairwise ranking loss to directly model the probability of improving and transfer learning across data sets to reduce required training data."]}
+{"seg_id": "601", "set_id": "601", "refs": ["We show that, in continual learning settings, catastrophic forgetting can be avoided by applying off-policy RL to a mixture of new and replay experience, with a behavioral cloning loss."]}
+{"seg_id": "602", "set_id": "602", "refs": ["We present a method which learns to integrate temporal information and ambiguous visual information in the context of interacting agents."]}
+{"seg_id": "603", "set_id": "603", "refs": ["We consider a simplified deep convolutional neural network model. We show that all layers of this network can be approximately learned with a proper application of tensor decomposition."]}
+{"seg_id": "604", "set_id": "604", "refs": ["Feedforward neural networks that can have weights pruned after training could have had the same weights pruned before training"]}
+{"seg_id": "605", "set_id": "605", "refs": ["In this paper we highlight  the difficulty of training sparse neural networks by doing interpolation experiments in the energy landscape"]}
+{"seg_id": "606", "set_id": "606", "refs": ["Weight-space symmetry in neural network landscapes gives rise to numerous number of saddles and flat high-dimensional subspaces."]}
+{"seg_id": "607", "set_id": "607", "refs": ["signal propagation theory applied to continuous surrogates of binary nets;  counter intuitive initialisation; reparameterisation trick not helpful"]}
+{"seg_id": "608", "set_id": "608", "refs": ["We propose an approach to semi-supervised learning of semantic dependency parsers based on the CRF autoencoder framework."]}
+{"seg_id": "609", "set_id": "609", "refs": ["DeFINE uses a deep, hierarchical, sparse network with new skip connections to learn better word embeddings efficiently."]}
+{"seg_id": "610", "set_id": "610", "refs": ["We successfully reproduce and give remarks on the comparison with baselines of a meta-learning approach for few-shot classification that works by backpropagating through the solution of a closed-form solver."]}
+{"seg_id": "611", "set_id": "611", "refs": ["Dynamic parameter-reallocation enables the successful direct training of compact sparse networks, and it plays an indispensable role even when we know the optimal sparse network a-priori"]}
+{"seg_id": "612", "set_id": "612", "refs": ["3 thrusts serving as stepping stones for robot experiential learning of vision module"]}
+{"seg_id": "613", "set_id": "613", "refs": ["All but the first two layers of our CNNs based acoustic models demonstrated some degree of language-specificity but freeze training enabled successful transfer between languages."]}
+{"seg_id": "614", "set_id": "614", "refs": ["Linking Wasserstein-trust region entropic policy gradients, and the heat equation."]}
+{"seg_id": "615", "set_id": "615", "refs": ["The discriminative capability of softmax for learning feature vectors of objects is effectively enhanced by virture of isotropic normalization on global distribution of data points."]}
+{"seg_id": "616", "set_id": "616", "refs": ["We adapt Q-learning with UCB-exploration bonus to infinite-horizon MDP with discounted rewards without accessing a generative model, and improves the previously best known result."]}
+{"seg_id": "617", "set_id": "617", "refs": ["Perturbations can be used to train feedback weights to learn in fully connected and convolutional neural networks"]}
+{"seg_id": "618", "set_id": "618", "refs": ["We identify some universal patterns (i.e., holding across architectures) in the behavior of different surrogate losses (CE, MSE, 0-1 loss) while training neural networks and present supporting empirical evidence."]}

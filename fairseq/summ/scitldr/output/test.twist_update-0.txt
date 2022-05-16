@@ -1,0 +1,618 @@
+We propose FearNet, a brain-inspired system for incrementally learning categories that significantly outperforms previous methods.
+We present two multi-view frameworks for learning sentence representations in an unsupervised fashion.
+We show how discrete objects can be learnt in an unsupervised fashion from pixels, and how to perform reinforcement learning using this object representation.
+We extend a state-of-the-art attention network and demonstrate that adding ClickMe supervision significantly improves its accuracy and yields visual features that are more
+We show how strong adversarial examples can be generated only at a cost similar to that of two runs of the fast gradient sign method (FGSM)
+We compare five different deep neural network architectures for character based text classification with each other for the problem of detecting DGAs.
+We propose a framework for building robust models by using adversarial learning to encourage models to learn latent, bias-free representations.
+In this paper, we present a new approach for knowledge graph embedding called RotatE, which is able to model and infer various relation patterns including
+We propose a simple yet effective method to improve robustness of convolutional neural networks to adversarial attacks by using data dependent adaptive convolution kernels.
+We apply ridge regression methods to the problem of few-shot learning and achieve performance comparable with or superior to the state of the art on three benchmarks.
+We propose active learning with partial feedback (ALPF), where the learner must actively choose both which example to label and which binary question to ask.
+We embed data as discrete probability distributions in a Wasserstein space, endowed with an optimal transport metric.
+We present a clustering algorithm that performs nonlinear dimensionality reduction and clustering jointly.
+We propose a new pruning method, spatial-Winograd pruning.
+Federated Learning with Neural Networks .
+We present a general-purpose method to train Markov chain Monte Carlo kernels that converge and mix quickly to their target distribution.
+We develop a novel adversarial evaluation approach that can find catastrophic failures and estimate their probability in minutes to hours rather than days.
+We propose an extremely simple modification to VAE training to reduce inference lag, we aggressively optimize the inference network before each model update.
+We introduce a generative model called Conditional Relationship Variational Autoencoder (CRVAE) to discover meaningful and novel relational medical entity pairs
+We analyze the objective of variational autoencoders and develop a simple VAE enhancement that produces crisp samples and stable FID scores.
+We give a simple, fast algorithm for hyperparameter optimization inspired by techniques from the analysis of Boolean functions.
+This paper introduces a collection of new methods for end-to-end learning in models with latent matchings using the continuous Sinkhorn operator.
+We present a differentiable neural architecture search (DNAS) framework to solve the mixed precision quantization problem.
+Top-k Classification with Deep Neural Networks .
+We introduce Mol-CycleGAN -- a CycleGAN-based model that generates optimized compounds with a chemical scaffold of interest.
+In this paper, we take face recognition as a breaking point and propose model distillation with knowledge transfer from face classification to alignment and verification.
+In this work we introduce a novel ranking loss function tailored for RNNs in session-based recommendation.
+We develop a framework for lifelong learning in deep neural networks that is based on generalization bounds, developed within the PAC-Bayes framework.
+We bridge the gap between Adam and SGD in terms of generalization, and propose a method to further improve the generalization in classification tasks.
+We extend the existing algorithms for eigenoption discovery to settings with stochastic transitions and in which handcrafted features are not available.
+We approximate the number of linear regions of specific rectifier networks with an algorithm for probabilistic lower bounds of mixed-integer linear sets.
+We introduce a biologically inspired visual working memory architecture and a fully differentiable Short Term Attentive Working Memory model which uses transformational attention to learn a
+We apply variational auto-Encoders to the task of musical timbre transfer and achieve state-of-the-art results.
+Deep Autoencoders under Random Weight Tying .
+Inspired by prior work on Sliced-Wasserstein Autoencoders (SWAE) and kernel smoothing we construct a new gener
+We propose a rejection sampling scheme using the discriminator of a GAN to approximately correct errors in the GAN generator distribution.
+We propose a simple and fast way to train supervised convolutional models to feature extraction while still maintaining its high-quality.
+We develop a framework for understanding and improving recurrent neural networks using max-affine spline operators.
+We propose Neighbourhood-approximated Neural Theorem Provers (NaNTPs), a neuro-symbolic system that performs reasoning
+We investigate the methods by which a Reservoir Computing Network learns concepts such as 'similar' and 'different' between pairs of images using a small training
+We present generative adversarial privacy and fairness (GAPF), a data-driven framework for learning private and fair representations of the data.
+Evaluation of confidence thresholding models against linear models .
+We propose a novel method called competitive experience replay, which efficiently supplements a sparse reward by placing learning in the context of an exploration competition.
+This paper proposes a neural end-to-end text- to-speech model which can control latent attributes in the generated speech that are rarely annotated
+Visual Question Answering with Counting Objects .
+We propose a simple and robust training-free approach for building sentence representations.
+We propose novel extensions of Prototypical Networks that are augmented with the ability to use unlabeled examples when producing prototypes.
+We investigate the properties of multidimensional probability distributions in the context of latent space prior distributions of implicit generative models.
+In this paper, we proposed an end-to-end DNN for abnormality detection in medical imaging.
+Deep Reinforcement Learning algorithms are not learning to navigate; they are learning to map.
+We propose a method to learn heteroscedastic noise models end-to-end through differentiable Bayesian Filtering.
+We find that the extensive use of Laplacian smoothing at each layer can easily dilute the knowledge from distant nodes and consequently decrease the performance
+We develop a capsule-based neural network model to solve the semantic segmentation problem.
+We propose a framework for understanding SGD learning in the information plane which consists of observing entropy and conditional entropy of the output labels of ANN.
+This paper presents the first meta-learning algorithm that allows automated design for the underlying continuous dynamics of an SG-MCMC sampler.
+We propose a new, multi-component energy function for energy-based Generative Adversarial Networks based on methods from the image quality assessment literature.
+We propose Aggregated Momentum (AggMo), a variant of momentum which combines multiple velocity vectors with different damping coefficients.
+We present the Recurrent Discounted Attention (RDA) unit that builds on the RWA by additionally allowing the discounting of the past.
+We introduce a new kind of stochastic layers that store information only in the variances of its weights, keeping the means fixed at zero.
+We propose Network of Graph Convolutional Networks (N-GCN), a novel architecture for semi-supervised learning on graphs.
+In this paper we propose a cheap pruning algorithm for fully connected layers of DNNs, based on difference of convex optimisation.
+In this paper, we introduce a novel hybrid temporal convolutional and recurrent network (TricorNet), which has an encoder-decoder
+We propose a task independent knowledge transfer approach, where student is trained to mimic features from teacher stage by stage.
+Adversarial training with worst case adversarial training improves adversarial robustness by 11% over the current state-of-the-art result in
+ElimiNet: Reading Comprehension with Multiple Choice Questions .
+In this paper, we start from level-$1$ recursion and introduce a probabilistic recursive reasoning (PR2) framework for multi-agent
+We propose a method to reduce the communication overhead of distributed deep learning.
+Deep Learning for Unsupervised Domain Adaptation .
+We extend the conceptor-aided backpropagation algorithm to deep feedforward networks and apply it to the problem of catastrophic interference.
+Neural Response Generation from the Perspective of Human-to-Human Conversational Corpora .
+We present code2seq: an alternative approach that leverages the syntactic structure of programming languages to better encode source code.
+We propose a novel attention mechanism to enhance Convolutional Neural Networks for fine-grained recognition.
+We modify a baseline GANs architecture by replacing normal convolutions with adaptive convolutions in the generator.
+Online distillation enables us to use extra parallelism to fit very large datasets about twice as fast.
+We propose a novel coreset construction algorithm for efficiently generating compact representations of massive data sets to speed up Support Vector Machine training.
+We provide non-convex convergence rates for sign stochastic gradient descent on general non-Convex functions under transparent conditions.
+A transparent middleware layer for neural network acceleration.
+We consider a simple, efficient conic convolutional scheme that encodes rotational equivariance, along with a method for integrating the magnitude response
+We propose a foveated generative model that is based on a mixture of peripheral representations and style transfer forward-pass algorithms.
+Over-parametrization improves the normalized margin and generalization error bounds for deep networks.
+We propose a distributed architecture for deep reinforcement learning at scale, that enables agents to learn effectively from orders of magnitude more data than previously possible.
+We analyze neural networks from a frame theoretic perspective to identify the sufficient conditions that enable smoothly recoverable representations of signals in L^2(R).
+We propose phrase-based attention methods for phrase-level alignments in neural machine translation.
+We compare methods that reduce overconfident errors of samples from an unknown novel distribution without drastically increasing evaluation time.
+We present a large batch, stochastic optimization algorithm that is both faster than widely used algorithms for fixed amounts of computation, and also scales up substantially
+We present a method to train models whose weights are a mixture of bitwidths, that allows us to more finely tune the accuracy/speed trade-
+Pruning units in a deep network can help speed up inference and training as well as reduce the size of the model.
+We provide a simple, intuitive, and effective solution to posterior collapse in latent variable models, enabling them to be paired with powerful decoders.
+We extend the batch adaptive stochastic gradient descent (BA-SGD) to momentum algorithm, and evaluate both thebatch adaptive SGD and the
+We investigate training time attacks on graph neural networks for node classification that perturb the discrete graph structure.
+We investigate the impact of explicit modularity and structure on the generalization abilities of neural models for the task of visual question answering.
+We develop Relational Forward Models, networks that learn to make accurate predictions of agents' future behavior in multi-agent environments.
+We show that gradient descent on an unregularized logistic regression problem converges to the same direction as the max-margin solution.
+We use the gray-level co-occurrence matrix to extract high-frequency semantic information from images that we do not want to depend upon.
+In this paper, we conduct an intriguing experimental study about the physical adversarial attack on object detectors in the wild.
+We present a differentiable decision tree that we connect to a variational autoencoder (VAE) to learn an embedding of the data
+A principled and practical domain-adaptation algorithm to correct for shifts in the label distribution between a source and a target domain.
+We use a Gaussian mixture model to factor out class-likelihoods and class-priors in a long-tailed dataset.
+We learn a generative model over the state space of the environment and use its latent space to optimize a target function for the state of interest.
+We introduce the deep abstaining classifier -- a deep neural network trained with a novel loss function that provides an abstention option during training.
+In this paper, we propose a novel TD learning method, Hadamard product Regularized TD (HR-TD), that reduces over-generalization
+We present an efficient convolution kernel for Convolutional Neural Networks on unstructured grids using parameterized differential operators while focusing on spherical signals.
+We reframe the time-agnostic prediction problem as a bottlenecks problem, so we can predict frames no matter when they occur.
+We introduce a system to estimate a victim's floor level via their mobile device's sensor data in a two-step process.
+We extend the Hindsight Experience Replay framework to solve 3D navigation tasks using natural language as the goal representation.
+We extend factorization schemes to codebook strategies, allowing compact second-order models with the same dimensionality as first order models.
+We propose a methodology for extending training datasets to arbitrarily big sizes and training complex, data-hungry models using weak supervision.
+We introduce contextual explanation networks, a class of models that learn to predict by generating and leveraging intermediate explanations.
+We propose a model free, off-policy Imitation Learning algorithm for continuous control.
+We propose a novel graph convolutional network that generalizes CNN architectures to graph-structured data.
+We investigate the learning dynamics of neural networks as they train on single classification tasks.
+We present an unsupervised approach for learning disentangled representations of objects entirely from unlabeled monocular videos.
+We introduce state aligned vector rewards which are easily defined in metric state spaces and allow our deep reinforcement learning agent to tackle the curse of dimensionality.
+We propose Episodic Backward Update - a new algorithm to boost the performance of a deep reinforcement learning agent by fast reward propagation.
+We have developed a novel Siamese Deep Neural Network architecture that is able to effectively learn from data in the presence of multiple adverse events.
+We present a system that allows for querying data tables using natural language questions, where the system translates the question into an executable SQL query.
+We propose the augment-REINFORCE-merge estimator that is unbiased, exhibits low variance, and has low computational complexity.
+We prove that local SGD converges at the same rate as mini-batch SGD in terms of number of evaluated gradients.
+We propose to perform a soft-clustering of the data and learn its dynamics to produce a compact dynamical system.
+We propose the dense RNN, which has the fully connections from each hidden state to multiple preceding hidden states directly.
+We propose a new algorithm for training generative adversarial networks to jointly learn latent codes for both identities and observations.
+We propose AlignFlow, a framework for unpaired cross-domain translation that ensures exact cycle consistency in the learned mappings.
+We present a technique to select a representative subset of examples that is sufficient to synthesize a correct program, yet small enough to solve efficiently.
+We use recurrent relational networks to solve Sudoku puzzles and achieve state-of-the-art results.
+We study training arbitrary (from linear to deep) binary classifier from only unlabeled (U) data by ERM.
+Bag-of-Feature Classifiers on ImageNet .
+Somatic cancer mutation detection at ultra-low variant allele frequencies (VAFs) is an unmet challenge that is intractable with current state
+This paper presents the formal release of MedMentions, a new manually annotated resource for the recognition of biomedical concepts.
+In this paper we propose a Deep Autoencoder Mixture Clustering (DAMIC) algorithm.
+We propose a new Integral Probability Metric (IPM) between distributions that we coin Sobolev IPM.
+We train the Generative Adversarial Nets with a mixture of generators to overcome the mode collapsing problem.
+We present the BabyAI research platform, with the goal of supporting investigations towards including humans in the loop for grounded language learning.
+In this paper, we propose a novel algorithm that jointly learns and compresses a neural network.
+We show that naive application of stochastic variance reduction to deep neural networks fail, and we explore why.
+We apply deep learning to 3D surfaces using their spherical descriptors and alt-az anisotropic convolution on 2-sphere.
+We propose a novel method to train neural networks with discrete weights using stochastic parameters.
+We present Optimal Completion Distillation (OCD), a stand-alone algorithm for optimizing sequence to sequence models based on edit distance.
+In this work, we propose an efficient federated learning framework based on variational dropout.
+We prove a boosting theory for Residual Neural Networks and propose a new algorithm to train them.
+We design a non-convex objective function whose landscape is guaranteed to have the following properties:
+In this paper, we release, describe, and analyze an OIE corpus called OPIEC, which was extracted from the text of English Wikipedia.
+We propose a domain-specific language (DSL) for use in automated architecture search which can produce novel RNNs of arbitrary depth and width.
+In this work, we develop a new method termed as ``"WAGE" to discretize both training and inference, where weights (W),
+Fast on-the-fly sparsification of CNNs without any retraining.
+We claim that it is possible to have better results only by adding new samples stage-by-stage without a meaningful order.
+We study the problem of learning to map, in an unsupervised way, between domains $A$ and $B$ such that the samples $\
+We present a new challenge for neural architectures and similar system, developing a task suite of mathematics problems involving sequential questions and answers in a free-form textual
+In this paper, we present novel ways to parameterize CNNs more efficiently, based on ideas from Partial Differential Equations.
+We use rate-distortion theory to solve the problem of improving priors in latent variable models.
+We investigate backpropagating error terms only linearly. We ignore the saturation that arise by ensuring gradients always flow.
+We investigate an alternate training technique for VQ-VAE, inspired by its connection to the Expectation Maximization algorithm.
+We present ODN (the Optimal margin Distribution Network), a network which embeds a loss function in regard to the optimal margin distribution.
+We present the concept of deep net triage, which individually assesses small blocks of convolution layers to understand their collective contribution to the overall performance.
+We show a new training phenomenon, where residual networks can be trained using an order of magnitude fewer iterations than is used with standard training methods.
+We propose a novel approach to weight initialisation for infinite-width neural networks that takes into account the data and information about the task at hand.
+We derive biologically plausible synaptic plasticity rules that dynamically modify the connectivity matrix to enable information storing in working memory.
+In this paper, we take a first step towards a principled study of the GAN dynamics itself.
+We study multi-source transfer across domains and tasks (MS-DTT), in a semi-supervised setting.
+We present a variational framework for Bayesian phylogenetic analysis.
+This paper introduces HybridNet, a hybrid neural network to speed-up autoregressive models for raw audio waveform generation.
+We propose a novel scheme for both interpretation as well as explanation of deep neural networks.
+We propose a simple and efficient framework to learn generic sentence representations from unlabelled data.
+We present the activation norm penalty that is derived from the information bottleneck principle and is theoretically grounded in a variation dropout framework.
+We propose a novel algorithm, Deep Temporal Clustering (DTC), a fully unsupervised method, to naturally integrate dimensionality reduction and
+We study many-class few-shot problem in both supervised learning and meta-learning scenarios.
+We propose new loss components that improve the quality of KMeans clustering in terms of mutual information scores and outperforms previous methods.
+We study the interaction between nearest neighbor algorithms and neural networks and propose methods to accelerate nearest neighbor queries by 5x.
+We introduce a differentiable quantization procedure that can be applied to low-bit neural networks without loss of performance.
+We propose a distributional framework for adversarial training of neural networks that operates on samples, rather than on single observations.
+In this paper, we propose a framework to do the auto standardization from the non-systematic names to the corresponding systematic names by using the spelling
+We extend previous work by investigating the curvature of the loss surface along the whole training trajectory, rather than only at the endpoint.
+We introduce a new approach to estimate continuous actions using actor-critic algorithms for continuous control.
+We design a specialized dropout method for DenseNet from three aspects: dropout location, dropout granularity, and dropout probability.
+We propose Knowledge-augmented Column Networks that leverage human advice/knowledge for better learning with noisy/sparse samples.
+We show why neural networks with binary weights and activations work in terms of HD geometry.
+In this paper, we use inverse problem and sparse representation solutions to form a mathematical basis for CNN operations.
+We consider the learning of algorithmic tasks by mere observation of input-output pairs, and study what are its implications in terms of learning.
+We propose a General and One-sample gradient that applies to many distributions associated with non-reparameterizable continuous random variables.
+We show that the complete loss function landscape of a neural network can be represented as the quantum state output by a quantum computer.
+We propose a general objective function to adapt the robust training method of Wong & Kolter to optimize for cost-sensitive robustness.
+We propose a method to learn a metric on neural responses, directly from recorded light responses of a population of primate retinal ganglion cells in
+We introduce a novel workflow, QCue, for providing textual stimulation during mind-mapping.
+We propose a simple and efficient plug-and-play detection procedure that does not require re-training, pre-processing or changes to the model.
+We propose the Maximal Divergence Sequential Auto-Encoder for binary code vulnerability detection.
+We show that prevalent attention architectures do not adequately model the dependence among the attention and output tokens across a predicted sequence.
+In this paper, we propose a technique that directly minimizes both the model complexity and the changes in the loss function.
+We present a general method for visualizing an arbitrary neural network's inner mechanisms and their power and limitations.
+We propose a large, standardized dataset and a set of 19 benchmarks to evaluate models for molecule generation and design.
+We show that even the simplest neural networks can learn to make analogies with visual and symbolic inputs.
+We propose a new setting in goal-oriented dialogue system to tighten the gap between information isolation on individual models between two agents.
+We propose to use unsupervised deep language models to complete and correct the queries given an arbitrary prefix.
+We make progress towards a deeper understanding of ADAM and RMSProp.
+We propose a novel automated countermeasure called Parallel Checkpointing Learners to thwart the potential adversarial attacks and significantly improve the reliability (safety)
+We present ProxylessNAS, a neural architecture search algorithm that can directly search the architectures for large-scale target tasks and target hardware platforms.
+We propose a variational Dirichlet framework with entropy-based uncertainty measure to detect out-of-distribution examples.
+We address the problem of learning an agent’s action space purely from visual observation.
+We propose a framework for training agents to negotiate and form teams using deep reinforcement learning.
+We develop unsupervised methods for discovering important neurons in neural machine translation models, and we develop methods to control NMT translations in predictable ways.
+We propose a framework that disentangles task and environment specific knowledge by separating them into two units.
+We propose pix2scene, a deep generative-based approach that implicitly models the geometric properties of a scene from images.
+We model relation representation as a supervised learning problem and learn parametrised operators that map pre-trained word embeddings to relation representations.
+In this paper we propose a simple technique called fraternal dropout that takes advantage of dropout to achieve this goal.
+We propose a novel approach for deformation-aware neural networks that learn the weighting and synthesis of dense volumetric deformation fields.
+This is an empirical paper which constructs color invariant networks and evaluates their performances on a realistic data set.
+We extend the study of expressive efficiency to the attribute of network connectivity and in particular to the effect of "overlaps" in the convolutional
+We provide a theoretical algorithm for checking local optimality and escaping saddles at nondifferentiable points of empirical risks of two-layer ReLU networks.
+We present a new technique for learning visual-semantic embeddings for cross-modal retrieval.
+We present DANTE, a novel method for training neural networks, in particular autoencoders, using the alternating minimization principle.
+We develop new algorithms for estimating heterogeneous treatment effects, combining recent developments in transfer learning for neural networks with insights from the causal inference literature.
+We propose LeMoNADe, a new exploratory data analysis method that facilitates hunting for motifs in calcium imaging videos.
+We propose a generic framework to learn from a noisy demonstration set, via evaluating the suitability of imitated skills judged by task specific heuristics.
+We propose causal implicit generative models that allow sampling from not only the true observational but also the true interventional distributions.
+We provide a theoretical justification to the self-normalization properties of language models trained with Noise Contrastive Estimation.
+We use affect scores from Warriner's affect lexicon to improve word representations learnt from an unlabelled corpus.
+We present an unsupervised method that samples neighborhood information attended by co-occurring structures and optimizes a trainable global bias as a representation expectation
+Linear graph embedding is not due to the dimensionality constraint as commonly believed, but rather the small norm of embedding vectors.
+We propose the quasi-hyperbolic momentum algorithm as an extremely simple alteration of SGD, averaging a plain SGD step with a momentum step.
+We propose a generalization of lambda-returns called Confidence-based Autodidactic Returns (CAR), wherein the RL agent learns the weight
+We propose a new driving model with multi-task basic knowledge for better generalization and accident explanation.
+We propose the MultI-Level Embedding (MILE) framework to scale up graph embedding techniques to large graphs.
+We propose a defense mechanism that is based on a contraction of the data, and we test its effectiveness using One-Class Support Vector Machines.
+We present a layer-wise learning of stochastic neural networks in an information-theoretic perspective.
+We construct an unbiased estimator for the maximum mean discrepancy between two probability measures P and Q and use it to train a generative neural network.
+We propose Bayesian Deep Q-Network, a practical Thompson sampling based Reinforcement Learning (RL) Algorithm.
+We propose the polynomial convolutional neural network, as a new design of a weight-learning efficient variant of the traditional CNN.
+We propose KL-CPD, a kernel learning framework for time series CPD that optimizes a lower bound of test power via an auxiliary generative
+We adapt notions of similarity using weak labels over multiple hierarchical levels to boost classification performance.
+We propose a new deep reinforcement learning algorithm based on counterfactual regret minimization that iteratively updates an approximation to a cumulative clipped advantage function and is
+We propose a novel generalized latent-subspace based knowledge sharing mechanism for linking task-specific models, namely tensor ring multi-task learning.
+We apply attention to Neural Processes and show that this improves the accuracy of predictions and expands the range of functions that can be modelled.
+We propose a simple, efficient, yet effective method, known as the pixel deconvolutional layer (PixelDCL), to address the checker
+Bayesian network compression method for simultaneous pruning and few-bit quantization of weights.
+We propose a progressive weight pruning approach based on ADMM to deal with non-convex optimization problems with potentially combinatorial constraints.
+In this paper, we present a deep learning architecture for addressing the problem of supervised learning with sparse and irregularly sampled multivariate time series.
+We introduce an analytic distance function for moderately sized point sets of known cardinality that is shown to have very desirable properties, both as a loss function and
+We introduce a hierarchical model for efficient placement of computational graphs onto hardware devices, especially in heterogeneous environments with a mixture of CPUs, GPUs, and other
+We use the group properties of transformations to constrain the abstract representation of motion.
+This paper introduces the concept of continuous convolution to neural networks and deep learning applications in general.
+We show that ImageNet-trained CNNs are strongly biased towards recognising textures rather than shapes, which is in stark contrast to human behavioural evidence.
+We exploited different strategies to provide prior knowledge to generative modeling approaches aiming to obtain speaker-dependent low dimensional representations from short-duration segments of speech data
+Jackknife Variational Inference for Variational Autoencoders .
+We present a framework that demonstrates a more structured and data efficient alternative to end-to-end complete policy learning on problems where the high-level policy
+We formulate automatic robot design as a graph search problem and perform evolution search in graph space.
+We solve the problem of generating graphs from continuous embedding in the context of variational autoencoders.
+We propose a new way for LSTM training, which pushes the values of the gates towards 0 or 1.
+We present a personalized recommender system using neural network for recommending products, such as eBooks, audio-books, Mobile Apps, Video and Music.
+We propose the task-GAN which extends GAN based image restoration framework to perform additional pathology recognition/classification task.
+In this paper, we present a Deep Autoencoding Gaussian Mixture Model for unsupervised anomaly detection.
+We introduce the Projective Subspace Networks (PSN), a deep learning paradigm that learns non-linear embeddings from limited supervision.
+This paper investigates whether learning contingency-awareness and controllable aspects of an environment can lead to better exploration in reinforcement learning.
+In this paper, we proposed a supervised algorithm called DNA-GAN trying to disentangle different attributes of images.
+We introduce an approach to probabilistic modelling that learns to represent data with two separate deep representations: an invariant representation that encodes the information of
+We define the active learning problem as core-set selection and provide a rigorous bound between average loss over any given subset and the remaining data points.
+We introduce a simple stochastic algorithm that is specific to LSTM optimization and targeted towards addressing this problem.
+We propose a simple yet effective end-to-end model for controlling over-generalization.
+We systematically analyze the effect of data augmentation on some popular neural networks and conclude that data Augmentation alone---without any other explicit regularization techniques---
+Gedit: A system of on-keyboard gestures for convenient mobile text editing .
+DNN is essentially a recursive solution to approximate the feature conditions and thus maximally fulfill maximum entropy principle.
+A novel approach to reinforcement learning that leverages a task-independent intrinsic reward function trained on peripheral pulse measurements that are correlated with human autonomic nervous system
+We investigate the behavior of CNNs under class-dependently simulated label noise, which is generated based on the conceptual distance between classes.
+GANs can in fact generate high-fidelity and locally-coherent audio by modeling log magnitudes and instantaneous frequencies  with sufficient frequency resolution in
+We propose a novel approach for learning graph representation of the data using gradients obtained via backpropagation.
+WAAT: A 3D Authoring Tool for the Training of Assembly Line Operators .
+We prove that the widely used first-order iterative method in training GANs converges to a stationary solution with a sublinear rate.
+We show that in a large class of games good strategies can be constructed by conditioning one's behavior solely on outcomes (ie. one's past rewards).
+We develop a simple yet effective quantization scheme, nested dithered quantized SG (NDQSG), that can reduce the communication significantly without requiring
+In this paper we propose a new defensive mechanism under the generative adversarial network(GAN) framework.
+We propose to use ensemble methods as a defense strategy against adversarial perturbations.
+We propose the Associative Conversation Model that generates visual information from textual information and uses it for generating sentences in a dialogue system without image input.
+We proposed a novel Contextual Recurrent Convolutional Network with this feature embedded in a standard CNN structure.
+We provide a practical approach to Bayesian learning that relies on a regularization technique found in nearly every modern network, batch normalization.
+We significantly reduce convergence damage caused by compressing the gradient through gradient dropping in data-parallelism training.
+We show that the density of the Q function estimated by Distributional RL can be successfully used for the estimation of UCB.
+We cast the representation learning problem in terms of learning to communicate.
+We introduce a meta-learning approach to learn high-fidelity one-shot imitation policies by off-policy RL.
+We extend batch normalization to more than a single mean and variance, to allow the network to jointly normalize its features within multiple modes.
+We propose a distillation-based approach to boost the accuracy of multilingual machine translation.
+We conduct a series of ablation studies to quantify the importance of various priors.
+We make use of k-determinantal point processes to perform open loop hyperparameter optimization.
+We investigate several regularization schemes that explicitly promote the similarity of the final solution with the initial model.
+We have shown that block diagonal inner product layers can reduce network size, training time and final execution time without significant harm to the network performance.
+We propose a novel weight normalization technique called spectral normalization to stabilize the training of the discriminator of generative adversarial networks.
+We propose a method that can learn transition policies which effectively connect primitive skills to perform sequential tasks without handcrafted rewards.
+We analyze one and two dimensional gated recurrent units as a continuous dynamical system, and classify the dynamical features obtainable with such system.
+We propose a Multi-Scale Stacked Hourglass Network to high-light the differentiation capabilities of each Hourglass network for human pose estimation.
+We present a new unsupervised method for learning general-purpose sentence embeddings by leveraging long-distance dependencies between sentences in a document.
+We explore the structure of neural loss functions, and the effect of loss landscapes on generalization, using a range of visualization methods.
+We use multi-way encoding to make deep models more robust to black-box and white-box attacks.
+We train a neural machine translation model that produces its outputs in parallel, allowing an order of magnitude lower latency during inference.
+We study the problem of making neural networks robust to small adversarial perturbations.
+We formulate an information-based optimization problem for supervised classification and prove that it solves the optimization problem.
+We train a generative model by tying a variational autoencoder to a machine, resulting in an almost perfect reconstruction of the data.
+This paper studies the problem of domain division which aims to segment instances drawn from different probabilistic distributions.
+We prove that stochastic gradient descent implicitly performs variational inference, but not in the classical sense.
+We explore the world without any expert actions and then distills its experience into a goal-conditioned skill policy with a novel forward consistency loss.
+We provide comparison between two methods for post process improvements to the baseline DSM vectors.
+We present a method to quantize both weights and activations of recurrent neural networks and apply it to image classification tasks.
+A method for tensorizing neural networks based upon an efficient way of approximating scale invariant quantum states.
+We propose a single-shot analysis of a trained CNN that uses Principal Component Analysis to determine the number of filters that are doing significant transformations per layer,
+Security analysis of DNN fingerprinting attacks that exploit cache side-channel techniques.
+We study a new training paradigm that maximizes the likelihood of the ground-truth class while neutralizing the probabilities of the complement classes.
+We extend softmax layer with an additional constant input to represent the uncertainty of the network.
+This paper demonstrates a novel approach, efficiently implementing many deep learning functions with bootstrapped homomorphic encryption.
+In this paper, we introduce a system called GamePad that can be used to explore the application of machine learning methods to theorem proving in Coq.
+We study in an online learning setting how the combination of both weight and gradient quantization affects convergence of weight-quantized networks in a distributed environment.
+We postulate that the learning process should not be selfish, i.e. it should account for future tasks to be added.
+We built a synapse model with a nonlinear synapse function of excitatory and inhibitory channel probabilities.
+We present an efficient scalable framework for learning conceptual embeddings of entities and relations in generalized knowledge graphs.
+We reduce minimax curriculum learning to the minimization of a surrogate function handled by submodular maximization and continuous gradient methods.
+We develop implicit causal models, a class of causal models that leverages neural architectures with an implicit density.
+In this paper, we propose to exploit the object-level relation to learn the image relation feature, which is converted into a distance directly.
+We show that using pre-trained word embeddings on code tokens provides the same benefits as it does to natural languages.
+Autodidactic Iteration is able to solve the Rubik's Cube and the 15-puzzle without relying on human data.
+A differentiable model for interpreting questions, which is inspired by formal approaches to semantics.
+We present DLVM, a design and implementation of a compiler infrastructure with a linear algebra intermediate representation, algorithmic differentiation by adjoint code generation, domain
+We focus on the problem of grounding language by training an agent to follow a set of natural language instructions and navigate to a 2D grid environment.
+We propose a new Q\&A architecture that does not require recurrent networks to perform machine reading and question answering.
+Convolutional Neural Networks for Spherical MNIST Images .
+We propose a novel method that makes use of deep neural networks and gradient decent to perform automated design on complex real world engineering tasks.
+We investigate whether turning the adversarial min-max problem into an optimization problem for linear discriminators improves the quality of the resulting alignment.
+In this paper, we show how Convolutional Neural   Networks (CNNs) can be implemented using binary representations.
+Differentiable Greedy Network for Fact Extraction and Verification .
+We introduce hierarchically clustered representation learning (HCRL), which simultaneously optimizes representation learning and hierarchical clustering in the embedding space.
+We introduce a novel geometric perspective and unsupervised model augmentation framework for transforming traditional deep neural networks into adversarially robust classifiers.
+Hierarchical Exploration for Reinforcement Learning in Large State-Action Spaces .
+We develop an analytic theory of the nonlinear dynamics of generalization in deep linear networks, both within and across tasks.
+We conduct a mathematical analysis on the Batch normalization effect on gradient backpropagation in residual network training in this work.
+To study how mental object representations are related to behavior, we estimated sparse, non-negative representations of objects using human behavioral judgments.
+We present an agent that sits between the user and a black box QA system and learns to reformulate questions to elicit the best possible answers.
+We propose to learn a proper prior from data for adversarial autoencoders in both supervised and unsupervised settings.
+This paper proposes an approach to text generation using Skip-Thought sentence embeddings in conjunction with GANs.
+We introduced UORO, an algorithm for online learning of recurrent neural networks in a streaming, memoryless fashion, at the cost of noise injection.
+We present a deep learning-based method for super-resolving coarse (low-resolution) labels assigned to groups of image pixels into pixel-level
+We propose a novel framework for combining datasets via alignment of their associated intrinsic dimensions.
+We propose a method for uncovering strong agents, consisting of a good combination of a body and policy, based on combining RL with an evolutionary procedure.
+We introduce intrinsic fear, a learned reward shaping that accelerates deep reinforcement learning and guards oscillating policies against periodic catastrophes.
+In this paper, we propose a novel `"volumetric convolution" operation that can effectively convolve arbitrary functions in B^3.
+We train DQN, deep reinforcement learning agent, with Q-value function approximated with a novel QWeb neural network architecture on synthetic instructions.
+In this paper we propose a method for sharing label information across languages by means of a language independent text encoder.
+We propose the deep inside-outside recursive autoencoder (DIORA), a fully-unsupervised method for discovering syntax that simultaneously learns
+We show that short-horizon meta-objectives cause a serious bias towards small step sizes, an effect we term short-Horizon bias.
+In this paper, we present an alternative paradigm for image captioning, which factorizes the captioning procedure into two stages: (1) extracting an
+We develop neural persistence, a novel measure for characterizing neural network structural complexity.
+We introduce an attack, OPTMARGIN, which generates adversarial examples robust to small perturbations.
+We train a neural network to output approximately optimal weights as a function of hyperparameters.
+We propose a novel covariance estimator based on the Gaussian Process Latent Variable Model.
+We study how, in generative adversarial networks, variance in the discriminator's output affects the generator's ability to learn the data distribution.
+We introduce NoisyNet, a deep reinforcement learning agent with parametric noise added to its weights, and show that the induced stochasticity of
+We propose Active Neural Localizer, a fully differentiable neural network that learns to localize efficiently.
+In this paper, we propose to leverage the hints from a well-trained AutoRegressive Neural Machine Translation model to train the NART model.
+We propose a morphological neural network that can approximate any continuous function without requiring any non-linear activation function.
+We propose the Integral Pruning (IP) technique which integrates the activation pruning with the weight pruning.
+We derive an easy method to train Variational Auto Encoder with binary or categorically valued latent variables.
+We propose DANA, a novel approach that scales out-of-the-box to large clusters using the same hyperparameters and learning schedule optimized
+This paper proposes a novel approach to train deep neural networks by unlocking the layer-wise dependency of backpropagation training.
+We introduce an algorithm that keeps the computational benefits of truncated BPTT, while providing unbiasedness.
+To the best of our knowledge, this is the first paper studying how to add fake nodes to attack GCNs.
+In this paper, we proposed the aligned recurrent transfer, ART, to achieve cell-level information transfer.
+We present a method to address model uncertainty in continuous Bayes-Adaptive Markov Decision Processs using Bayesian filter and augmented state-belief
+We use neural network divergences to measure progress towards an evaluation metric for unconditional image generation.
+We make the first step to open the black box by introducing dialogue acts into open domain dialogue generation.
+We identify the abstract notion of aligning two domains in a semantic way with concrete terms of minimal relative complexity.
+We present a novel approach for the certification of neural networks which combines scalable overapproximation methods with precise (mixed integer) linear programming.
+We investigate a series of architectural transformations between HMMs and RNNs, both through theoretical derivations and empirical hybridization.
+We propose a novel regularization method that penalizes covariance between dimensions of the hidden layers in a network, something that benefits the disentanglement
+This report introduces a training and recognition scheme, in which classification is realized via class-wise discerning.
+We study the effect of network structure on halting time and show that larger models can potentially train faster despite the increasing computational requirements of each training step.
+We show that it is beneficial to train a model that jointly and directly localizes and repairs variable-misuse bugs.
+We advocate for a unified treatment of the two problems of classification and clustering in machine learning and computer vision.
+We develop two algorithms with linear complexity for instancewise feature importance scoring on black-box models.
+We undertake the first systematic survey of when local codes emerge in a feed-forward neural network, using generated input and output data with known qualities.
+We propose a multimodal embedding approach for modeling knowledge bases that contains a variety of data types, such as textual, images, categorical values
+We propose a two-stage method to learn Sparse Structured Ensembles (SSEs) for neural networks.
+We develop ML-PIP, a general framework for Meta-Learning approximate Probabilistic Inference for Prediction.
+We propose a new negative sampling scheme based on the mutual exclusivity constraint of softmax.
+In this paper, we focus on the task of video classification and aim to reduce the computational cost by using the idea of distillation.
+This paper aims to establish formal connections between GANs and VAEs through a new formulation of them.
+We present PEARL,  Prototype lEArning via Rule Lists, which iteratively uses rule lists to learn representative data prototypes.
+We propose the Deli-Fisher GAN, a GAN that generates photo-realistic images by enforcing structure on the latent generative space
+We report on a modular network architecture that applies an attentional mechanism to sensor selection for multi-sensor setups.
+We propose PrivyNet to enable cloud-based DNN training while protecting the data privacy simultaneously.
+We propose a Recurrent GAN and Recurrent Conditional GAN to produce realistic real-valued multi-dimensional medical time series.
+Predicting Emphasis Effects in Visualizations .
+We introduce Related Memory Network, an end-to-end neural network architecture exploiting both memory network and relation network structures.
+We propose an efficient way to significantly reduce the number of parameters while at the same time improving the performance of deep convolutional networks.
+We train quantized neural networks by noise injection and learned clamping, which improve the accuracy.
+We present Leap, a framework that can transfer knowledge across learning processes at a high level of abstraction.
+We propose a method called Deep Adaptation Networks (DAN) that constrains newly learned filters to be linear combinations of existing ones.
+This paper presents a general technique toward 8-bit low precision inference of convolutional neural networks.
+We endow neural network representations with suitable geometry to capture fundamental properties of data, including hierarchy and clustering behaviour.
+We present a method for evaluating the sensitivity of deep reinforcement learning (RL) policies and a zero-sum dynamic game for designing robust deep RL policies.
+In this paper, we provide a quantitative analysis of the robustness of classifiers to universal perturbations, and draw a formal link between the robust
+We propose an end-to-end algorithm for grounding iterative language corrections in their environment and use them to improve through iterative feedback.
+We analyze the modularity of generative models based on the counterfactual manipulation of their internal variables.
+We propose Seq2SQL, a deep neural network for translating natural language questions to corresponding SQL queries.
+We introduce Explainable Adversarial Learning, ExL, an approach for training neural networks that are intrinsically robust to adversarial attacks.
+We propose a method which can visually explain the classification decision of deep neural networks.
+We flip the usual approach to study invariance and robustness of neural networks by considering the non-uniqueness and instability of the inverse mapping.
+We show that it is the adversarial training of the ensemble, rather than the ensembling of adversarially trained models that provides robustness.
+We present a novel neural network and training algorithm for multi-task learning and demonstrate significant improvement over cross-stitch networks and mini-imagenet
+We use a collection of non-negative stochastic gates to determine which weights to set to zero.
+We propose a graph neural network that removes all the intermediate fully-connected layers, and replaces them with attention mechanisms that respect the structure of the graph.
+We train generative autoencoders with maximum likelihood, without restrictions on architectures or latent dimensionalities.
+We learn embeddings in a Riemannian product manifold combining hyperbolic, spherical, and Euclidean components and equip it with a
+We propose Neural Guided Deductive Search (NGDS), a hybrid synthesis technique that combines the best of both symbolic logic techniques and statistical models.
+We formulate a new variation of variational auto-encoders with a Spike and Slab prior distribution to obtain truly sparse representations.
+This paper presents a simple method for training deep feedforward networks which reduces the degradation effect.
+We propose methods to reduce both the number of weights and bits-depth of deep learning models without sacrificing accuracy.
+We used predictive coding to train a deep neural network on real-world images in a biologically plausible manner.
+In this paper, we propose deep convolutional generative adversarial networks that learn to produce a 'mental image' of the input image as internal
+We present a framework that combines techniques in formal methods with deep RL methods to learn hierarchical policies with well-defined intrinsic rewards.
+We propose a scalable non-uniform quantization method based on trainable scaling factors in combination with a nested-means clustering approach.
+When a robot is deployed in an environment that humans act in, the state of the environment is already optimized for what humans want.
+In our work we present a novel, systematic, unifying taxonomy to categorize existing methods for deep learning.
+We prove the expressive power theorem for recurrent neural networks that correspond to the Tensor Train decomposition.
+We propose ProbGAN, a novel probabilistic framework for GANs, which iteratively learns a distribution over generators with a carefully crafted prior.
+In this paper, we propose taking into account the inherent confidence information produced by models when studying adversarial perturbations.
+This paper proposes a Direct Sparse Optimization NAS (DSO-NAS) method which can be directly applied to large datasets like ImageNet.
+We propose two new compression methods, which combine quantization and distillation of larger teacher networks into smaller student networks.
+We aim to improve neural machine translation via source side dependency syntax but without explicit annotation.
+We accelerate model-free RL in sparse reward settings using a single trajectory to construct a curriculum for a given task.
+We present a novel algorithm for integrating a form of external memory with trainable reading and writing into a RL agent.
+We achieve bias-variance decomposition for Boltzmann machines using an information geometric formulation of hierarchical probability distributions.
+We accelerate recurrent neural networks on a GPU by up to 6x with a series of optimizations.
+We propose a new DNN-dedicated sparse matrix format and a new pruning method based on errorcorrection coding (ECC) techniques.
+This paper proposes a novel framework for efficient multi-task reinforcement learning.
+We propose a simple yet effective method to analyze and visualize embeddings.
+In this paper, we propose a principled approach to train networks with significantly improved resistance to large variations between training and testing data.
+We propose a simple modification to standard neural network architectures, thermometer encoding, which significantly increases the robustness of the network to adversarial examples.
+We prove dimension-independent bounds for low-precision training algorithms that use fixed-point arithmetic.
+We consider the problem of exploration in meta reinforcement learning.
+Probabilistic neural-symbolic models for visual question answering provide interpretable explanations of their decision making in the form of programs.
+We propose a method for using formal verification to assess the effectiveness of techniques for producing adversarial examples.
+This paper introduces a new framework for open-domain question answering in which the retriever and the reader iteratively interact with each other.
+This paper proposes stacked u-nets, which iteratively combine features from different resolution scales while maintaining resolution.
+We propose a new question generation problem, which also requires the input of a target topic in addition to a piece of descriptive text.
+We introduce a new computational approach that decodes movement intent from a low-dimensional latent representation of the neural data.
+We apply experimental paradigms from developmental psychology to neural network-based language learning, exploring the conditions under which established human biases and learning effects emerge.
+We propose a novel formulation that simultaneously learns a hierarchical, disentangled object representation and a dynamics model for object parts from unlabeled videos.
+We perform a systematic study of system resource efficiency for super-resolution, within the context of a variety of architectural and low-precision approaches originally developed
+Fourier Analysis of Deep ReLU Networks .
+Hedged Instance Embedding .
+We present tensor contraction layers which can replace the ordinary fully-connected layers in a neural network.
+We explore ways of incorporating bilingual dictionaries to enable semi-supervised neural machine translation.
+We propose a new curiosity method which uses episodic memory to form the novelty bonus.
+We compare neural networks' ability to capture and exploit the structure of logical expressions against an entailment prediction task.
+We propose an efficient training methodology and incrementally growing a DCNN to allow new classes to be learned while sharing part of the base network.
+We accelerate the training of RNNs with only linear sequential dependencies over the sequence length using the parallel scan algorithm.
+We propose an actor-critic conditional GAN that fills in missing text conditioned on the surrounding context.
+We compare psychophysical as well as learnt texture representations based on activations of a pretrained CNN in a novelty detection scenario.
+We study a new type of regularization approach that encourages the supports of weight vectors in RL models to have small overlap, by simultaneously promoting near-orth
+We prove that learnable gates in a recurrent model formally provide quasi-invariance to general time transformations in the input data.
+A formal study on the role of 'teaching' in artificial intelligence is sorely needed.
+We present DL2, a system for training and querying neural networks with logical constraints.
+We present Genetic Policy Optimization (GPO), a genetic algorithm for sample-efficient deep policy optimization.
+We propose a principled approach, called ProxQuant, that formulates quantized network training as a regularized learning problem and optimizes it via the
+We prove that, with high probability, local minima with high error are exponentially rare in high dimensions.
+We propose an attention-invariant attack method to generate more transferable adversarial examples.
+We present Merged-Averaged Classifiers via Hashing (MACH) for $K$-classification with large $K$.
+We present a general framework for learning low-variance, unbiased gradient estimators for black-box functions of random variables, based on gradients of
+Well-known GANs approaches do learn distributions of fairly low support.
+We use generative adversarial networks to generate natural adversarial examples that lie on the data manifold.
+We extend the Kronecker-Factor Approximate Curvature method to handle recurrent neural networks.
+We propose deep weight prior -a framework for designing a prior distribution for convolutional neural networks, that exploits prior knowledge about the structure of learned conv
+We use deep neural networks to perform classification of cyanobacterial cells sampled by hyperspectral imaging.
+We introduce a new dataset containing $9.7$ million question-answer pairs grounded over $270,000$ plots with three differentiators.
+We extend the theory of Random Features to Kernel Ridge Regression and show that ORFs can be used to obtain Orthogonal PSRNNs.
+We propose a semi-supervised student- teacher approach for training deep neural networks using weakly-labeled data.
+We propose new online learning approaches for supervised dimension reduction.
+This paper presents a storage-efficient learning model for embedded and mobile devices having a limited amount of on-chip data storage.
+We define two transfer learning methods that use generative manifold representations to learn natural transformations and incorporate them into new data.
+This paper describes SCAN, a new framework for learning abstract compositional concepts in the visual domain.
+We propose a Latent Topic Conversational Model that augments the seq2seq model with a neural topic component to better model human-human conversations.
+We provide a spatial representation of the graph and a method to perform graph classification. We apply the proposed approach to several popular benchmark data-sets.
+We apply generative adversarial networks to produce adversarial examples in both the semi-whitebox and black-box settings.
+This paper proposes a new model for the rating prediction task in recommender systems which significantly outperforms previous state-of-the-art models on a
+We combine the parallelizability and global receptive field of feed-forward sequence models like the Transformer with the recurrent inductive bias of RNNs
+We use saliency maps to provide explanations of performed tasks and propose a new metric to assess their quality.
+Mixed-Precision CNN Training for ImageNet-1K .
+We present an end-to-end speech recognition system, leveraging a simple letter-based ConvNet acoustic model.
+We propose Invariant Encoding Generative Adversarial Networks for generative tasks.
+We express the latent variable space of a variational autoencoder in terms of a Bayesian network with a learned, flexible dependency structure.
+We present a scale-invariant deep neural network architecture for changepoint detection in time series.
+We demonstrate how to learn efficient heuristics for automated reasoning algorithms through deep reinforcement learning.
+We consider the question of how to assess generative adversarial networks, in particular with respect to whether or not they generalise.
+We use automatic search techniques to discover novel activation functions for deep neural networks.
+We introduce a novel bottom-up approach to expand representations in fixed-depth architectures.
+We train a feedforward network without backpropagation in a similar fashion to BID19's Equilibrium Propagation.
+We propose a novel generative model architecture designed to learn representations for images that factor out a single attribute from the rest of the representation.
+We present a model that can directly sample frames at arbitrary time points from a sequence of frames, without intermediate frames.
+ADAM is a combination of two aspects: for each weight, the update direction is determined by the sign of the stochastic gradient.
+We propose a novel framework to adaptively adjust the dropout rates for the deep neural network based on a Rademacher complexity bound.
+We address several limitations of the baseline negated CNN architecture by proposing two further optimized architectures employing (feature) group-level fusion weights.
+We develop a mean field theory for batch normalization in fully-connected neural networks.
+We present NeuroSAT, a message passing neural network that learns to solve SAT problems after only being trained as a classifier to predict satisfiability.
+We propose a deep learning framework for traffic forecasting that incorporates both spatial and temporal dependency in the traffic flow.
+We propose noise contrastive priors to obtain reliable uncertainty estimates.
+Convolutional neural networks do not have a shape bias.
+We propose a generative model and a conditional variant built on such a disentangled latent space.
+In this paper, we consider compressing the network by weight quantization.
+In this paper, we develop a novel policy gradient method for the automatic learning of policies with options.
+The paper, interested in unsupervised feature selection, aims to retain the features best accounting for the local patterns in the data.
+We introduce the SCAN domain, consisting of a set of simple compositional navigation commands paired with the corresponding action sequences.
+This paper addresses the challenging problem of retrieval and matching of graph structured objects, and makes two key contributions.
+We learn to build a distributed sentence encoder in an unsupervised fashion by exploiting the structure and relationship in a large unlabeled corpus.
+We provide a theoreticallyjustified approach to compute sample likelihoods using GAN's generative model.
+We introduce geomstats, a Python package for Riemannian modelization and optimization over manifolds.
+We propose to execute deep neural networks with dynamic and sparse graph structure for compressive memory and accelerative execution during both training and inference.
+We extend the idea of frequentist Information-Directed Sampling to a practical RL exploration algorithm that can account for heteroscedastic noise.
+We address the problem of learning structured policies for continuous control using a neural network that operates over graph structures.
+In this paper, we propose an HRL method that learns a latent variable of a hierarchical policy using mutual information maximization.
+We introduce the use of hierarchical interpretations to explain DNN predictions through our proposed method: agglomerative contextual decomposition (ACD).
+We apply spectral energy analysis to the problem of neural network compression and show how this can be used for simultaneous compression and domain adaptation.
+We propose a method to efficiently learn diverse strategies in reinforcement learning for query reformulation in the tasks of document retrieval and question answering.
+We proposed the notion of Conditional Network Embeddings (CNEs), which seeks an embedding of a network that maximally adds information with
+We provide an analysis framework and sufficient conditions that guarantee the convergence of the Adam-type methods for non-convex stochastic optimization.
+This paper describes a simplistic architecture named AANN: Absolute Artificial Neural Network, which can be used to create highly interpretable representations of the input data.
+We extend the OpenAI Generative Pre-trained Transformer architecture to perform unsupervised relation extraction from plain text corpora.
+We propose NASH, a simple and fast method for automated architecture search based on a hill climbing strategy, network morphisms, and short optimization runs by
+We propose GraphGAN - the first implicit generative model for graphs that enables to mimic real-world networks.
+We propose a method based on the Generative Adversarial Networks (GAN) framework for the task of novelty detection.
+We present a flexible and interpretable framework for learning domain invariant speaker embeddings using Generative Adversarial Networks.
+We introduce a new state-of-the-art approach called Non-synergistic variational Autoencoder (Non-Syn VAE
+We present principled schemes that control the arrangement of examples into minibatches.
+We propose an algorithm which combines the general pre-trained word embedding vectors with those generated on the task-specific training set to address this issue.
+We propose a training scheme which overcomes both of these difficulties, by dynamically weighting two unbiased gradient estimators for a variational loss on optimizer
+We propose a novel asynchronous distributed algorithm that reduces or completely eliminates worker idle time due to communication overhead.
+We propose a novel Defensive Quantization (DQ) method to improve the robustness of neural networks against adversarial attacks.
+We extend existing RNN models by learning to skip state updates and shortens the effective size of the computational graph.
+We propose a fast second-order method that can be used as a drop-in replacement for current deep learning solvers.
+We learn heuristics for combinatorial optimization problems using attention layers and a simple but effective greedy rollout baseline.
+We propose an efficient online online hyperparameter optimization method which uses a joint dynamical system to evaluate the gradient with respect to the hyperparameters.
+We find that LSTMs, when properly regularised, outperform more recent models.
+We investigate the role of residual and highway connections in deep neural networks for speech enhancement.
+We provide two innovations that aim to turn variational Bayes into a robust inference tool for Bayesian neural networks.
+We present a framework that combines techniques in formal methods with reinforcement learning to construct new skills out of existing skills with little to no additional learning.
+We apply multi-modal generative models by means of a Variational Auto Encoder to sensor fusion and bi-directional modality exchange.
+We develop a fast, easy-to-implement and scalable means for simultaneous model learning and proposal adaptation in deep generative models.
+A two-timescale network architecture that enables linear methods to be used to learn values, with a nonlinear representation learned at a slower timescale.
+In this paper, we propose simple, but effective, low-rank matrix factorization (MF) algorithms to compress network parameters and significantly speed up L
+We apply a 3-branch Siamese Convolutional Neural Network to the problem of detecting image duplication and re-use in scientific work.
+We propose training a single generator simultaneously against an array of discriminators, each of which looks at a different random low-dimensional projection of the data.
+We present a novel method to precisely impose tree-structured category information onto word-embeddings, resulting in ball embeddings in higher dimensional
+We propose Convolutional Random Fields (ConvCRFs), a novel CRF design that can be trained in terms of convolutions and can be
+In this paper we propose a framework which validates robustness of any Question Answering model through model explainers.
+We propose a generative adversarial network model that works in parallel by mixing multiple disjoint generators to approximate a complex real distribution.
+We capitalize on the natural compositional structure of images in order to learn object segmentation with weakly labeled images.
+We propose a geometric framework, drawing on tools from the manifold reconstruction literature, to analyze the high-dimensional geometry of adversarial examples.
+We explore two approaches to increase model robustness: structure-invariant word representations and robust training on noisy texts.
+We develop a recursive mini-batch algorithm for learning deep hard-threshold networks, including the popular but poorly justified straight-through estimator.
+Through controlled experiments, we demonstrate that visual-relation problems strain convolutional neural networks.
+In this paper, we propose a novel adversarial RL method which adopts an Asymmetric Dueling mechanism for Visual Active Tracking.
+We propose a method to learn a hierarchical word embedding in a speciﬁc order to capture the hypernymy.
+We show that it is possible to build a deep network that incorporates self-organizing maps into a supervised network.
+We propose precision highway, which forms an end-to-end high-precision information flow while performing the ultra-low-precise computation.
+We present a variant on backpropagation for neural networks in which computation scales with the rate of change of the data.
+We demonstrate three caveats to the information bottleneck method and propose a functional to recover the IB curve in all cases.
+We prove, under two sufficient conditions, that idealised models can have no adversarial examples.
+We introduce attacks that instead reprogram the target model to perform a task chosen by the attacker without the attacker needing to specify or compute the desired output.
+We propose a new measure that can predict the generalization gap of deep neural networks, based on the concept of margin distribution.
+We give the first efficient algorithm to learn a one-hidden-layer convolutional neural network with two unknown layers with commonly used overlapping patches.
+We present theoretical and empirical arguments why using a weaker regularization term enforcing the Lipschitz constraint is preferable.
+We apply the Wasserstein-2 metric proximal on the generators of GANs and obtain an easy-to-implement regularizer.
+We develop a weighted mini-bucket approach for bounding the MEU of influence diagrams.
+We revisit a feed-forward propagation approach that allows one to estimate for each neuron its mean and variance w.r.t. the input.
+We show that any GAN objective, including Wasserstein GANs, benefit from adversarial robustness both quantitatively and qualitatively.
+We propose a method to learn stochastic activation functions for use in probabilistic neural networks.
+We prove that Deep diagonal-circulant ReLU networks with bounded width and small depth can approximate any dense neural network.
+StarHopper: Efficient Object-Centric Camera Drone Navigation .
+In this paper, we propose a model, called "bi-directional block self-attention network (Bi-BloSAN)", for R
+We propose the Coarse-grain Fine-grain Coattention Network, a new question answering model that combines information from evidence across multiple documents.
+We present a scalable method for unbalanced optimal transport based on the generative-adversarial framework.
+We propose classifier-agnostic saliency map extraction, which finds all parts of the image that any classifier could use.
+We propose InstaGAN, a generative adversarial network that incorporates the instance information and improves multi-instance transfiguration.
+The parameter-function map of deep neural networks is exponentially biased towards simple functions, and this bias helps to explain why they generalize so well.
+We establish a theoretical link between evolutionary algorithms and variational parameter optimization of probabilistic generative models with binary hidden variables.
+We address the task of forward prediction on sequences of probability distributions with a recurrent architecture.
+We present graph attention networks, leveraging masked self-attentional layers to address the shortcomings of prior graph convolutions or their approximations.
+We present a principled method for learning reduced network architectures in a data-driven way using reinforcement learning.
+We propose a new set of losses named moment reconstruction losses to accomplish both training stability and multimodal output generation in conditional image generation.
+We exploit the causality principle of independence of mechanisms to quantify how the weights of successive layers adapt to each other.
+This paper outlines a new approach for learning underlying game state embeddings irrespective of the visual rendering of the game.
+Stochastic Gradient Descent for Recurrent Neural Networks .
+By properly defining the neuron manifold, we can significantly improve the performance of student DNN networks through approximating neuron manifold of powerful teacher network.
+We train a single neural network executable at different widths, permitting instant and adaptive accuracy-efficiency trade-offs at runtime.
+We analyze a simple approach for deep learning networks to be used as an approximation of non-metric similarity functions and we study how these models generalize
+We propose an augmented cyclic adversarial learning model that enforces the cycle-consistency constraint via an external task specific model for domain adaptation.
+We develop GraphWave, a method that represents each node’s local network neighborhood via a low-dimensional embedding by leveraging spectral graph wavelet
+UniNet: A Mixed Reality Driving Simulator .
+We propose to use more efficient numerical integration technique to obtain better estimates of the integrals compared to the state-of-the-art methods.
+We leverage natural language produced by people in an interactive communication task to develop neural listener and speaker models with strong capacity for generalization.
+We present a paradigm for learning object-centric representations for physical scene understanding without direct supervision of object properties.
+We provide necessary and sufficient conditions for a critical point of the risk function to be a global minimum in deep linear neural networks.
+Recurrent auto-encoder model can summarise sequential data through an encoder structure into a fixed-length vector and then reconstruct into its original sequential
+We view molecule optimization as a graph-to-graph translation problem and propose a method to learn to translate molecular graphs into better graphs.
+We propose an approach to learn a fast iterative solver for PDEs that improves on an existing standard solver.
+We introduce functional variational Bayesian neural networks, which maximize an Evidence Lower BOund (ELBO) defined directly on stochastic processes.
+We embed words in a Cartesian product of hyperbolic spaces which we theoretically connect to the Gaussian word embeddings and their Fisher geometry.
+We investigate a canonical architecture, the memory network, and analyze how effective it really is in the context of three multi-hop reasoning settings.
+We compute deep convolutional network generators by inverting a fixed embedding operator.
+We present Structural-Jump-LSTM: the first neural speed reading model to both skip and jump text during inference.
+We formulate the session-based recommendation as a Markov Decision Process, and leverage Reinforcement Learning (RL) to learn the recommendation strategy.
+We present evidence in theory and simulation suggesting that ensemble robustness explains the generalization performance of deep learning algorithms.
+We show how neural attention and meta learning can be used in combination with autoregressive models to enable effective few-shot density estimation.
+We provide the first theoretical guarantees for the generalization of over-parameterized neural networks.
+We identify decision states by examining where the model accesses the goal state through the bottleneck.
+We propose Guided Evolutionary Strategies, a method for optimally using surrogate gradient directions along with random search.
+This paper studies the unsupervised problem of a generative model exploiting graph convolution.
+We use the implicit regularization effect of stochastic gradient descent to separate clean and mislabeled examples in over-parameterized neural networks.
+We study the problem of attacking a BNN through the lens of combinatorial and integer optimization.
+We propose a new regularization method based on decoding the last token in the context using the predicted distribution of the next token.
+We introduce a novel Generative Markov Network (GMN) which we use to extract the order of data instances automatically.
+We present Neural Program Search, an algorithm to generate programs from natural language description and a small number of input / output examples.
+We study the discrimination and generalization properties of GANs with parameterized discriminator class such as neural networks.
+We show how to train deep residual networks reliably at maximal learning rate without normalization.
+We make two proposals to learn better metric than SeqGAN: partial reward function and expert-based reward function training.
+We propose Locally Disentangled Factors, a powerful new approach to decomposing the training of generative models.
+We use a joint approach to encourage beneficial interactions during training between textual, perceptual, and cluster information to learn multimodal sentence representations.
