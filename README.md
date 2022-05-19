@@ -1,7 +1,7 @@
 # Twist Decoding: Diverse Generators Guide Each Other
 
 <p align="center">
-<img src="https://github.com/jungokasai/twist_decoding/blob/main/figs/twist_decoding.pn" height="300" alt="twist_decoding">
+<img src="https://github.com/jungokasai/twist_decoding/blob/main/figs/twist_decoding.png" height="300" alt="twist_decoding">
 </p>
 
 ## Introduction
