@@ -98,7 +98,7 @@ bash run.sh  ../../fairseq/summ/scitldr/output/test.twist_update-2.txt  ../../fa
                Noah A. Smith},
   title     = {Twist Decoding: Diverse Generators Guide Each Other},
   year      = {2022},
-  url       = {},
+  url       = {https://arxiv.org/abs/2205.09273},
 }
 ```
 <p align="center">
